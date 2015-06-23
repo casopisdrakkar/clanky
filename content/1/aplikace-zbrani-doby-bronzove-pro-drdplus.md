@@ -3,6 +3,7 @@ Title: Aplikace zbraní doby bronzové pro DrD+
 Authors: Pavel „Goran“ Veselský 
 Tags: pravěk, zbraně, doba bronzová, DrD+
 Color: red
+Fulltext: yes
 ---
 
 Obecně by bronzové zbraně a zbroje v boji proti svým obdobám z kvalitního železa měly mít postih ­1 na zranění (sečné či bodné) a kryt (meče). Bronzové 

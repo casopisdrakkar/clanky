@@ -3,6 +3,7 @@ Title: První pomoc
 Authors: Iveta „Morrack“ Mrázová 
 Tags: hraní
 Color: red
+Fulltext: yes
 ---
 Jak poskytnou první pomoc?
 

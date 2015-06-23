@@ -2,6 +2,7 @@
 Title: Slovo úvodem
 Authors: Roman „RomiK“ Hora
 Tags: úvodník
+Fulltext: yes
 ---
 Vše začalo jedním nápadem, který byl tak smělý, že dlouho ležel ukryt kdesi v neprozkoumaných hlubinách lidského mozku. Jenže nic nemělo zůstat stejné a nápad se prokutal ven. Kdo ví, zda vlastní silou nebo pod tíhou událostí. Prostě a jednoduše, v plné síle vyšel na světlo a spustil vlnu mnoha dalších událostí.
 

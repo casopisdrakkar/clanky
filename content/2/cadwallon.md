@@ -4,6 +4,7 @@ Authors: Dalcor
 Tags: RPG Systémy, Cadwallon, recenze
 Color: blue
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=4528
+Fulltext: yes
 --- 
 
 Francouzská firma Rackham je úspěšným vydavatelem celé řady známých wargamingových her. Za všechny jmenujme _Confrontation_ a _Ragnarok_, kterými se snaží konkurovat skoro monopolnímu postavení Games Workshop. Po vzoru svého anglického bratříčka, kterému samozřejmě Francouzi nemohou býti nic dlužni, se firma rozhodla vydat vlastní RPG. Oproti GW se však francouzský vydavatel vydal zcela jinou cestou. Tu jde shrnout následovně:

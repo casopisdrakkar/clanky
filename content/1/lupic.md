@@ -3,6 +3,7 @@ Title: Lupič
 Authors: Pavel „Viking“ Lešetický
 Tags: povídka
 Color: gray
+Fulltext: yes
 ---
   
 Bylo to dávno, popravdě velmi dávno, tak dávno, že již není žádné písemné památky, jež by tuto skutečnost pamatovala. A přeci teď taková památka 

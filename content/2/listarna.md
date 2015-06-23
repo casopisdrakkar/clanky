@@ -4,6 +4,7 @@ Authors: Zrzavec
 Tags: příloha, listárna
 Color: gray 
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=4528
+Fulltext: yes
 --- 
 
 Jako reakce na velké množství vašich mailů, rad a připomínek vzniká i tato sekce. Udělal jsem výběr nejzajímavějšího a i s odpověďmi si to budete moci přečíst. Snažil jsem se vybírat vše (pokud se to neopakovalo). Jak slova chvály, tak i kritiku a případně stížnosti. U každého vašeho příspěvku je vždy odpověď někoho z redakční rady.

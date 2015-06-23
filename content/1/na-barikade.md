@@ -3,6 +3,7 @@ Title: Na barikádě
 Authors: Roman „RomiK“ Hora 
 Tags: hraní
 Color: green
+Fulltext: yes
 ---
 
 >„Chtěl bych vám říct jen pár slov. Jen několik. Na světě existují systémy. Jsou různé, nejrůznější. Věřte mi, že jen jedna hra, jeden systém je ten nejlepší. Náš systém je, byl a bude nejlepší. Jeden systém, jedni hráči, jedna komunita!!!“ tak pravil systém H­-. 

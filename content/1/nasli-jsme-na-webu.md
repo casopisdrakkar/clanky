@@ -3,6 +3,7 @@ Title: Našli jsme pro vás na webu
 Authors: Vítězslav „Vitus“ Pilmaier 
 Tags: aktuality
 Color: green
+Fulltext: yes
 ---
 Než se pustíme do samotné první části našeho seriálu o některých zajímavých RPG zdrojích na internetu, chtěli bychom všechny čtenáře upozornit, že tato 
 část je určena spíše pro začínající a méně pokročilé uživatele internetu, respektive pro méně pokročilé pátrače po internetových zdrojích, i když doufáme, že i ostřílení brouzdači v internetových vlnách zde rovněž něco najdou. 

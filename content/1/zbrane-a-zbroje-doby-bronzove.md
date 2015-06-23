@@ -3,6 +3,7 @@ Title: Zbraně a zbroje doby bronzové
 Authors: Pavel „Goran“ Veselský 
 Tags: pravěk, zbraně, doba bronzová
 Color: red
+Fulltext: yes
 ---
 
 

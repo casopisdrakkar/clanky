@@ -3,6 +3,7 @@ Title: Láska lesa
 Authors: Julius Štěpán „Kin“ Karajos 
 Tags: dobrodružství
 Color: green
+Fulltext: yes
 ---
 
 Toto je dobrodružství pro jakýkoliv fantasy svět, svět, kde funguje magie a který obývají bájní tvorové. O jednom z nich to také bude. Je to dobrodružství o jedné malé lži, která málem zavinila katastrofu. A nebo ještě zaviní, ale to už bude záležet na Tvé družině. 

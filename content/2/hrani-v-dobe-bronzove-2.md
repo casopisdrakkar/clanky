@@ -4,6 +4,7 @@ Authors: Goran
 Tags: RPG obecně, doba bronzová, Egypt, herní prostředí, historie, Mezopotámie, předkolumbovská Amerika
 Color: green
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=4528
+Fulltext: yes
 --- 
 
 Minule jsme si řekli o době bronzové jako celku, teď se zaměříme na konkrétní civilizace. Účelem tohoto článku není předat čtenářům fakta – k tomu slouží odborná literatura, z níž několik příkladů bude uvedeno v doporučené literatuře na konci článku. Zaměřím se spíš na to, jak se v daném prostředí asi živí typičtí dobrodruzi.

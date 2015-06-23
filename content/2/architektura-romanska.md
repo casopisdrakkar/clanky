@@ -4,6 +4,7 @@ Authors: Zrzavec
 Tags: historie a realita, architektura, doba románská, historie, středověká Evropa
 Color: green
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=4528
+Fulltext: yes
 --- 
 
 Architektura a její historie je stejně důležitá jako životopisy panovníků, popis každodennosti a zprávy z válek. Proč? Protože nám doplňuje mozaiku toho, jak lidé žili a čemu věřili. Kdy se na našem území dá mluvit o nějaké architektuře? Je to až s rozvojem studia architektury a dřívějších stavebních slohů? A nebo od samého počátku, od samotného stavění?

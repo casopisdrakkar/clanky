@@ -4,6 +4,7 @@ Authors: Dalcor
 Tags: doplňky pro hru, Cadwallon, nehráčské postavy
 Color: blue
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=4528
+Fulltext: yes
 --- 
 
 Jmenuji se Brand Amber a pocházím z rodu De Sanntille. Tedy alespoň to si každý myslí. A já je při tom nechám. Mám také pečetní prsten. Nevím, jestli je pravý nebo ne. Vyhrál jsem ho nad jedním chlapíkem v kartách v hospodě Tři džbánky v Somě. Jsou tři možnosti, jak je to s tím prstenem. První je, že ho ukradl. Druhá možnost je, že si ho vyrobil, aby mohl dělat machra a třetí, že to byl, kurva, šlechtic! No, na tom teď asi nezáleží, protože ho potom vodkrouhli vrahové. Já si prsten nechal a zbudoval jsem na něm svůj nový život.

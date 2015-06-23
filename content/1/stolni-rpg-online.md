@@ -3,6 +3,7 @@ Title: Stolní RPG online
 Authors: Filip „Gran“ Randák
 Tags: online RPG
 Color: blue
+Fulltext: yes
 ---
 Dá se spolehlivě říci, že s nástupem osobního počítače – a tedy i her na něm – se pojem „RPG“ stal známým pro mnohem širší komunitu, než jak tomu bylo do 
 té doby. Počítačová RPG (dále CRPG) však nesplňovala, nesplňují a nejspíše ještě dlouho nebudou splňovat představy hráčů starých dobrých „papírových“ her, tedy těch, kterým nebyl pojem RPG neznámý ani před příchodem počítačových her. Jak to ale dopadne, když i takový hráči usednou před obrazovku monitoru s chutí zahrát si to, co doposud hráli? 

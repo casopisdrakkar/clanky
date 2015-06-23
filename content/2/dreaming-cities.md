@@ -4,6 +4,7 @@ Authors: Joe
 Tags: RPG systémy, Dreaming Cities, recenze, urban fantasy
 Color: blue
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=4528
+Fulltext: yes
 --- 
 
 _„… Videl som to spoza rohu. Nemalo to krídla, ale podľa opisu to bolo ono. Neviem, či sa zdroj informácií dostal až takto blízko a ani to, čo sa s ním následne stalo, ale mne behali po chrbte zimomriavky už hodnú chvíľu. A to som to zbadal až teraz. Tá aura bola jednoducho cítiť už zopár blokov odtiaľto. Keby som ju mal popísať, tak vám predložím mix slaných pražených arašidov, cukru, spáleného mäsa a trpkého citrónu. Jednoducho šmak na pohľadanie. Vtisol som ruku do vrecka na svojej ošúchanej (kedysi modrej) košeli a uistil sa, že oba amulety sú na svojom mieste a stále mierne hrejú. Kým budú účinné, mal by som byť chránený pred väčšinou nepríjemností, ktoré by sa mohli vyskytnúť. Aspoň som bol o tom uistený…“_

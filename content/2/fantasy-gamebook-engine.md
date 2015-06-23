@@ -4,6 +4,7 @@ Authors: Zrzavec
 Tags: RPG projekt, gamebooky, internet, zajímavé odkazy 
 Color: blue
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=4528
+Fulltext: yes
 --- 
 
 Gamebooky – knihy, které lze hrát. Že víte o co jde? 

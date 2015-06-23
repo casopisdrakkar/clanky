@@ -4,6 +4,7 @@ Authors: Vitus
 Tags: Internet, Našli jsme na webu, Advanced Dungeons and Dragons, Castles and Crusades, doplňky pro hru, Dungeons and Dragons (původní), internet, Lejendary Adventure, zajímavé odkazy
 Color: green 
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=4528 
+Fulltext: yes
 --- 
 V druhé části se podívame na webové stránky Dragonsfoot příznivců starších verzí D&amp;D a jiných RPG.
 

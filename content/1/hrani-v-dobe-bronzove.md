@@ -3,6 +3,7 @@ Title: Hraní v době bronzové – doba bronzová obecně
 Authors: Pavel „Goran“ Veselský 
 Tags: historie, pravěk
 Color: blue
+Fulltext: yes
 ---
 
 Většina fantasy prostředí se podobá středověku a když je nějaké RPG situované do minulosti, je středověk také častou volbou. Na druhou stranu může být zajímavé vyzkoušet nějaké starší období, třeba dobu bronzovou. 

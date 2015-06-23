@@ -3,6 +3,7 @@ Title: Zrada
 Authors: Jaroslava „Tabytha“ Auterská
 Tags: povídka
 Color: gray
+Fulltext: yes
 ---
 Zabušení na dveře ji vyrušilo z úvah. Pomalu zvedla své časem shrbené tělo a pomalým, nejistým krokem se šourala otevřít. 
 

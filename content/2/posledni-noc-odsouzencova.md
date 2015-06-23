@@ -4,6 +4,7 @@ Authors: Roman „RomiK“ Hora
 Tags: povídka
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=4528 
+Fulltext: yes
 --- 
 
 *Věnováno dlouholeté přítelkyni, podporovatelce a první čtenářce všeho, co jsem kdy napsal a plánuji napsat, Jarce Auterské!*

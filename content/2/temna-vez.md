@@ -4,6 +4,7 @@ Authors: Jaroslava „Tabytha“ Auterská
 Tags: poezie, báseň
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=4528
+Fulltext: yes
 --- 
 Poezie.
 

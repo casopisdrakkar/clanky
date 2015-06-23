@@ -4,6 +4,7 @@ Authors: Zrzavec
 Tags: úvodník
 Color: red 
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=4528
+Fulltext: yes
 --- 
 Mám tu čest vás přivítat již u druhého čísla internetového dvouměsíčníku o fantasy a RPG hrách, Drakkaru. V poslední době se toho událo jistě hodně. Nejen v našich osobních životech – přichází doba maturit, vysvědčení a pro mnohé i zkoušek a zápočtů. Ale ani pracující čtenáři to nemají lehké. Proto budu rád, pokud vám Drakkar poskytne příjemné a poučné četní – ať jste kdekoliv a děláte cokoliv. Avšak, i v naší redakci se toho událo hodně. A s tím vás seznámím.
 
