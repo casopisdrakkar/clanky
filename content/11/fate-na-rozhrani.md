@@ -4,6 +4,7 @@ Authors: Jozef „Joe“ Kundlák
 Tags: Fate, Fudge, překlady, Spirit of the Century
 Color: gray
 Summary: Séria článkov, ktorú vám prinášam, je voľnejším prekladom stiahnuteľných zdrojových pravidiel pre Spirit of the Century (SotC), aplikáciu systému FATE pre pulpové dobrodružstvá. 
+Fulltext: yes
 ---
 # Úvod do FATE pre neveriacich  
 

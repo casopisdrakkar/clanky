@@ -4,6 +4,7 @@ Authors: Argonantus
 Tags: H. P. Lovecraft, horor, inspirace, literární techniky, mýtus Cthulhu
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?p=225635#p225635
+Fulltext: yes
 ---
 Howard Phillips Lovecraft; jméno, které znamenalo v různých dobách velmi různé věci. Zejména v našich krajích. V dobách dřívějších, do roku 1989, neznamenalo vůbec nic; jen největší znalci hororu věděli, že někdo takový vůbec existuje. Možná si někdo vzpomene na úplně nejstarší českou přeloženou povídku _Hrůzný stařec_ ze Zábranova výboru _Lupiči mrtvol_. Je krátká a celkem tuctová; jediný zajímavý detail, že jedna z postav je _„česká obluda“_, zmizel díky opatrnému překladateli. Občas ho nějaký znalec označil za význačného spisovatele hororů. Občas ho někdo další označil jako symbol špatného vkusu a pokleslého brakového psaní. Ale všeobecně se spíš nevědělo, o kom je řeč.
 

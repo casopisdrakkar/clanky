@@ -3,6 +3,7 @@ Title: "FATE - Na (roz)hraní (3.)"
 Authors: Jozef „Joe“ Kundlák
 Tags: Fate, Fudge, Spirit of the Century
 Color: gray
+Fulltext: yes
 ---
 Tretiu časť seriálu o FATE 2.5 začnem tam, kde som skončil v tej predchádzajúcej. Ak vám prvá alebo druhá časť ušli, nájdete ich v predchádzajúcich číslach Drakkaru – [06/2008](6/fate-na-rozhrani-1) a [01/2009](/1/fate-na-rozhrani-2). V prvej časti som hovoril o všeobecných zložkách herného systému [FATE](http://rpgforum.cz/anotace/fate-druha-edice) (neoficiálne nazvanej) verzie 2.5, obsiahnutej najmä v [Spirit of the Century](http://rpgforum.cz/anotace/spirit-century) a Starblazer Adventures (spoločne s neoficiálnymi úpravami FATE v domácich verziách hráčov z celého sveta).
 

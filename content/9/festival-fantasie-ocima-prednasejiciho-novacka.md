@@ -2,6 +2,7 @@
 Title: Festival Fantazie očima přednášejícího nováčka
 Authors: Petr „ilgir“ Chval
 Tags: reportáž
+Fulltext: yes
 ---
 
 Ač s hromadnými akcemi podobného ražení jisté zkušenosti mám, na žádném skutečném conu jsem, pokud mě paměť neklame, ještě nebyl. A festival Fantazie, to není jen tak ledasjaký con, to je multicon. Desítky linií, stovky přednášek a tisíce (no dobře, tisíc a půl) návštěvníků dělají z FF suverénně největší akci svého druhu v naší malé republice. Proč jsem se nechal přemluvit k účasti na jedné z akcí, kterým jsem nikdy neholdoval? Přiznám to rovnou: Jistý člověk řečený Sirien mě svými lichotkami (a že jich stačilo málo) na mé znalosti přesvědčil o tom, že je dobrý nápad, abych zde přednášel. Stal jsem se tedy přednášejícím nováčkem, a to za linii MaelströM.

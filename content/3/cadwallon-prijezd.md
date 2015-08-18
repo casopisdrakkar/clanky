@@ -3,6 +3,7 @@ Title: "Cadwallon: Příjezd"
 Authors: Dalibor „Dalcor“ Zeman
 Tags: Cadwallon, povídka
 Color: gray
+Fulltext: yes
 ---
 Tak jsem zase tady. Cadwallon, Klenot Laneveru. Sotva jsem prošel branou, hned
 jsem byl omráčen cadwallonskou přítomností, o které se mi občas zdávalo. Davy lidí

@@ -3,6 +3,7 @@ Title: "Vitus a jeho první GameCon"
 Authors: Vítězslav „Vitus“ Pilmaier
 Tags: Dračí doupě plus, DragonLance, GameCon, My Life with Master, reporty z akcí, Star Wars Saga Edition
 Color: gray
+Fulltext: yes
 ---
 
 Vzhledem k tomu, že jsem na stará kolena dostal na první Gamecon ve svém životě, rozhodl jsem se sepsat své dojmy z této akce. Předem však upozorňuji, že jsem dalek hodnocení organizačních a dalších záležitostí, protože bych je jednak neměl s čím srovnávat a druhak jsem neměl žádná očekávání, alébrž ve mne bujela zvědavost, jak to vlastně celé funguje či nefunguje.

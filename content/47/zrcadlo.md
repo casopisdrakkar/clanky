@@ -3,6 +3,7 @@ Title: Zrcadlo
 Authors: Zdislava Pavlůsková
 Tags: povídka
 Color: gray
+Fulltext: yes
 ---
 
 „Adriano! Grahaam je ve velkém sále a čeká se jen na tebe!“ zakřičel 

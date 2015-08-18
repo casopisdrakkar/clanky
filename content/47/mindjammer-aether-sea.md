@@ -3,6 +3,7 @@ Title: "Čerstvě dočteno: Mindjammer a Aether Sea"
 Authors: Skenderax
 Tags: Mindjammer, Aether Sea, recenze, čerstvě dočteno
 Color: red
+Fulltext: yes
 ---
 Krátke recenzie dvoch stolných RPG.
 

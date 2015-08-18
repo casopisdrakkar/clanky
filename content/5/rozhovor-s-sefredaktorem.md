@@ -3,6 +3,7 @@ Title: "Rozhovor s šéfredaktorem"
 Authors: Lukáš „Zayl“ Dubský
 Tags: rozhovor
 Color: gray
+Fulltext: yes
 ---
 Pokud vás zajímá, jak Drakkar vzniká, jaká je jeho budoucnost a jaká je historie jeho vzniku, tak nepřehlédněte tento rozhovor s RomiKem, který vám jakožto šéfredaktor dá nahlédnout do redakční „kuchyně“.
 

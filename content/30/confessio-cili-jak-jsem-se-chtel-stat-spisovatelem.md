@@ -3,6 +3,7 @@ Title: "Confessio čili Jak jsem se chtěl stát spisovatelem"
 Authors: Argonantus
 Tags: literatura, tvorba, fikce, psaní
 Color: green
+Fulltext: yes
 ---
 V dávných dobách bývalo zvykem, že se kluci chtěli stát popelářem, hasičem, kosmonautem, případně fotbalistou. Nevím, jestli obliba akčních profesí ještě trvá. Za přáním stát se spisovatelem byla zřejmě docela realistická obava z toho, že akční a mužné povolání s sebou nese nebezpečí boulí, ne-li něčeho horšího. Sedět pěkně doma a přesto prožívat dobrodružství popeláře, hasiče a fotbalisty je ideální řešení.
 Tato egomaniakální pitva je určena především těm, kteří v nějakém hodně dobře utajeném koutě mysli chovají šílený úmysl stát se spisovatelem. Lze to chápat jako velmi specifický případ RPG pro jediného osamělého hráče; jinak to s hraním souvisí volně. Pokoušel jsem se vážit každou větu, zda není navíc; přesto mi herní záznam více než třiceti let této hry zabral delší prostor a na různé užitečné odbočky – třeba právě na vztah hraní a RPG – už místo nezbylo. Takže koho nezajímá tvůrčí psaní, nechť přestane číst právě zde.

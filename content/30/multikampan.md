@@ -3,6 +3,7 @@ Title: "Multikampaň"
 Authors: Jan „Jerson“ Průcha
 Tags: hraní, tipy a triky, vědení hry
 Color: blue
+Fulltext: yes
 ---
 Multikampaň je herní svět, ve kterém hraje více
 skupin, jejichž příběhy jsou navzájem méně či

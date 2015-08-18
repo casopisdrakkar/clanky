@@ -1,8 +1,9 @@
 ---
 Title: "The Living Dead: predstavenie komiksovej série"
 Authors: Ján „crowen“ Rosa
-Tags: atmosféra, horor, nemrtví, zombie, Living Dead, komiks
+Tags: atmosféra, horor, nemrtví, zombie, Living Dead, komiks, recenze
 Color: gray
+Fulltext: yes
 ---
 > Koľko je takých hodín počas dňa, z ktorých polovicu nestráviš pozeraním televízie?
 > 

@@ -2,6 +2,7 @@
 Title: Cosa nostra
 Authors: Ecthelion²
 Tags: zápis
+Fulltext: yes
 ---
 
 Zápis z jednorázové hry. Jde spíše o stručné shrnutí, kterému bohužel chybí některé význačné momenty, protože už od odehrání uběhl nějaký čas. Přesto snad splní svůj účel, kterým je podat alespoň základní informace o tom, jak může hra v mafiánském prostředí vypadat, a posloužit snad i jako inspirace k podobným příběhům.

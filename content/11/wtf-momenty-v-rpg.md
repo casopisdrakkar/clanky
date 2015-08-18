@@ -4,6 +4,7 @@ Authors: Jan „Jerson“ Průcha
 Tags: Dračí Doupě, fraška, problémy, Shadowrun
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?f=204&t=6488
+Fulltext: yes
 ---
 Když jsem na RPG foru vyprávěl pár momentů, které jsem zažil při hraní DrD, ukázalo se, že nikdo jiný z přítomních podobné zážitky nemá. Pro ilustraci jsem napsal další příhody a některým čtenářům přišly natolik zábavné, že mě Joe požádal, abych tyto vzpomínky sepsal jako článek pro Drakkar.
 

@@ -2,6 +2,7 @@
 Title: Něco o středověkém myšlení
 Authors: Petr „ilgir“ Chval
 Tags: historie a realita
+Fulltext: yes
 ---
 
 Pochopit a pojmout myšlení lidí ve středověku, to je sen mnoha badatelů, který však jen těžko může dojít úplného naplnění. Zkoumáním písemných i jiných pramenů získáme vždy jen střípky mozaiky, na které se navíc chtě nechtě díváme naším zažitým pohledem. Můj článek si v žádném případě neklade za cíl nějak systematicky pojmout a popsat mentalitu středověku. Je spíše letmým průřezem tématy, která mi z různých důvodů připadají zajímavá a užitečná.

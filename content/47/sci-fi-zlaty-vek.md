@@ -3,6 +3,7 @@ Title: "Sci-fi: o co tenkrát šlo v tom Zlatém věku a po něm"
 Authors: Argonantus
 Tags: literatura
 Color: blue
+Fulltext: yes
 ---
 
 Tentokrát není třeba – na rozdíl od příběhů 

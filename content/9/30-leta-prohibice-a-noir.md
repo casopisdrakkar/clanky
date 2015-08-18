@@ -2,6 +2,7 @@
 Title: "30. léta, prohibice a noir"
 Authors: Ecthelion²
 Tags: téma čísla
+Fulltext: yes
 ---
 
 Tento článek vznikl jako pomocník pro hráče a Vypravěče, kteří chtějí odehrát nějaké příběhy v prostředí třicátých let, ať již o žánrovou gangsterku, nebo o noirovku. Na jediné přečtení možná bude působit poněkud hutně nebo nezáživně – vznikl však v rámci RPGFóra a má sloužit spíše jako referenční příručka nebo průvodce. Je rozdělen na dvě části – první obsahuje některé možné nápady pro zápletky a dobrodružství, na většině z nich se dá postavit celé herní sezení (nebo minimálně nějaká výrazná epizoda). Druhá polovina článku představuje historický popis několika měst, gangů, historických událostí a přestřelek.

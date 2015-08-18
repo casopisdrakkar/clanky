@@ -2,6 +2,7 @@
 Title: Detektivní zápletky
 Authors: Pavel „Goran“ Veselský
 Tags: o hraní obecně
+Fulltext: yes
 ---
 
 Nevím, zda už máš zkušenostmi s vedením her s detektivní zápletkou, jestli jsi nezkušený Watson či ostřílený Holmes. Sám jsem několik detektivních her vedl a ohlasy hráčů povzbudily moje vypravěčské sebevědomí natolik, že jsem se rozhodl podělit se o své poznatky. Můj způsob určitě není jediný správný, ale vede ke spokojenosti hráčů, takže snad pomůže i zkušeným mistrům zločinných konspirací.

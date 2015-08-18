@@ -1,9 +1,10 @@
 ---
 Title: "Shadows"
 Authors: Pieta
-Tags: horor, hraní s dětmi, minimalistická hra, recenze, Shadows
+Tags: horor, hraní s dětmi, minimalistická hra, recenze, Shadows, recenze RPG
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?f=89&t=6467
+Fulltext: yes
 ---
 Drazí přátelé, vážení hosté, dnes se vám naskytla jedinečná možnost zúčastnit se spolu se mnou velikého experimentu. Jeho téma: Může být recenze na hru delší, než hra samotná?
 

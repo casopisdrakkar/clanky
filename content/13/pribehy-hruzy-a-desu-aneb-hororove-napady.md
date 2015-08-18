@@ -4,6 +4,7 @@ Authors: Conlai, Ecthelion², Erric
 Tags: atmosféra, horor, rady pro vypravěče, techniky
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?p=225631#p225631
+Fulltext: yes
 ---
 _Nejstarší a nejsilnější emocí lidstva je strach...  
 - H.P. Lovecraft_

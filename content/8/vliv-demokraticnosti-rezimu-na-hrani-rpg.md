@@ -3,7 +3,7 @@ Title: "Vliv demokratičnosti režimu na hraní RPG"
 Authors: Lukáš „Zayl“ Dubský
 Tags: fantasy, náboženství, totalita, tvorba světa, vláda
 Color: gray
-
+Fulltext: yes
 ---
 Pokud se případný čtenář tohoto článku nezalekl ne příliš zábavně vyhlížejícího titulku, může na tomto místě získat stručné informace o nedemokratických režimech. Nedemokratické režimy patří k důležitým výzkumným disciplínám v rámci politologie. V tomto článku bych chtěl představit některé hlavní prvky totalitních a autoritativních režimů a především poradit Gamemasterům, jak tyto prvky zasadit do jejich RPG světa.
 
