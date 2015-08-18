@@ -1,6 +1,6 @@
 ---
 Title: Láska lesa
-Authors: Julius Štěpán „Kin“ Karajos 
+Authors: Julius Štěpán „Kin“ Karajos
 Tags: dobrodružství
 Color: green
 Fulltext: yes

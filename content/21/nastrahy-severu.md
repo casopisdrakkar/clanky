@@ -1,6 +1,6 @@
 ---
 Title: "Nástrahy Severu"
-Authors: Ján „Crowen“ Rosa
+Authors: Ján „crowen“ Rosa
 Tags: Sever, cestování, postavy, inspirace
 Color: red
 ---

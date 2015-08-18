@@ -1,6 +1,6 @@
 ---
 Title: "Krátké zprávy"
-Authors: Ecthelion
+Authors: Ecthelion²
 Tags: Altar, krátké zprávy, soutěž, Střepy snů
 Color: gray
 ---

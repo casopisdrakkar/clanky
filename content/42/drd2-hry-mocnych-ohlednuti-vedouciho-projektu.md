@@ -1,6 +1,6 @@
 ---
 Title: "DrD II: Hry mocných – Ohlédnutí vedoucího projektu"
-Authors: Petr „Ilgir“ Chvál
+Authors: Petr „ilgir“ Chval
 Tags: ohlédnutí, Dračí doupě 2
 Color: green
 Fulltext: no 

@@ -1,6 +1,6 @@
 ---
 Title: "Příběhy hrůzy a děsu aneb hororové nápady"
-Authors: Conlai, Ecthelion^2, Erric
+Authors: Conlai, Ecthelion², Erric
 Tags: atmosféra, horor, rady pro vypravěče, techniky
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?p=225631#p225631

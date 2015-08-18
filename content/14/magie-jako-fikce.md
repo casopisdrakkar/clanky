@@ -1,6 +1,6 @@
 ---
 Title: "Magie jako fikce"
-Authors: David „Conlai“ Klimeček
+Authors: „Conlai“
 Tags: magie, fikce, hraní, styly
 Color: green
 ---

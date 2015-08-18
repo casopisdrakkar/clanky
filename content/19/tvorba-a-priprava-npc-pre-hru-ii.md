@@ -1,6 +1,6 @@
 ---
 Title: "Tvorba a príprava NPC pre hru II"
-Authors: Ján „Crowen“ Rosa
+Authors: Ján „crowen“ Rosa
 Tags: NPC, cizí postavy, tvorba, inspirace
 Color: red
 ---

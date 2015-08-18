@@ -1,6 +1,6 @@
 ---
 Title: "Rozhovor s Erricem"
-Authors: Lukáš "Zayl" Dubský
+Authors: Lukáš „Zayl“ Dubský
 Tags: rozhovor, Erric, Střepy snů
 Color: gray
 ---

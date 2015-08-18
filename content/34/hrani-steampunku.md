@@ -1,6 +1,6 @@
 ---
 Title: "Hraní steampunku?"
-Authors: Ecthelion2
+Authors: Ecthelion²
 Tags: steampunk, hraní, herní styly, světy
 Color: red
 ---

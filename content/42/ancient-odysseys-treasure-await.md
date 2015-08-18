@@ -1,6 +1,6 @@
 ---
 Title: "Ancient Oddyseys: Treasure Awaits!"
-Authors: „Alef0“, „Skenderax“
+Authors: alef0, Skenderax
 Tags: recenze, hrdinské hraní, retro
 Fulltext: no
 Color: green 

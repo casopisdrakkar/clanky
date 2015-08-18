@@ -1,6 +1,6 @@
 ---
 Title: "Proměny historické fikce"
-Authors: „Argonantus“
+Authors: Argonantus
 Tags: román, literatura
 Fulltext: no
 Color: blue

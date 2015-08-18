@@ -1,6 +1,6 @@
 ---
 Title: "Universipedia"
-Authors: různí autoři
+Authors: rozliční autoři
 Tags: sci-fi, doplňky, materiály
 Color: green
 ---

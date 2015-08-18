@@ -1,6 +1,6 @@
 ---
 Title: "Přístavní (zá)pletky"
-Authors: „Vallun“
+Authors: Vallun
 Tags: materiály, inspirace, přístav, lodě
 Color: red
 Fulltext: no 

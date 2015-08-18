@@ -1,6 +1,6 @@
 ---
 Title: "Krčmy a hostince, část první - venkov"
-Authors: Petr „Ilgir“ Chvál
+Authors: Petr „ilgir“ Chval
 Tags: krčmy, hostince, světy, historie, realita
 Color: green
 ---

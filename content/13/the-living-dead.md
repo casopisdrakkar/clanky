@@ -1,6 +1,6 @@
 ---
 Title: "The Living Dead: predstavenie komiksovej série"
-Authors: Ján „Crowen“ Rosa
+Authors: Ján „crowen“ Rosa
 Tags: atmosféra, horor, nemrtví, zombie, Living Dead, komiks
 Color: gray
 ---

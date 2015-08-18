@@ -1,6 +1,6 @@
 ---
 Title: "Ostrovy v hmle"
-Authors: Ján „Crowen“ Rosa
+Authors: Ján „crowen“ Rosa
 Tags: Dračí doupě 2, ostrovy, herní svět, doplňky, elfové
 Color: green
 ---

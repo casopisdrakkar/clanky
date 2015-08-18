@@ -1,6 +1,6 @@
 ---
 Title: "Mercijská kráľovská služba"
-Authors: Ján „Crowen“ Rosa
+Authors: Ján „crowen“ Rosa
 Tags: literatura, detektivky, doplnky
 Fulltext: no
 Color: red

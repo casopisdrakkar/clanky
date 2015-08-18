@@ -1,6 +1,6 @@
 --- 
 Title: Dreaming Cities
-Authors: Joe
+Authors: Jozef „Joe“ Kundlák
 Tags: RPG systémy, Dreaming Cities, recenze, urban fantasy
 Color: blue
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=4528

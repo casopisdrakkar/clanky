@@ -1,6 +1,6 @@
 ---
 Title: "Play Dirty: Epizóda 9 - Prosím, môžem si dať ešte jednu?"
-Authors: John Wick, preklad Alef0
+Authors: John Wick, alef0
 Tags: Play Dirty, překlad, tipy a triky, herní techniky
 Color: green
 ---

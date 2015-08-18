@@ -1,6 +1,6 @@
 ---
 Title: "The One Ring: Adventures over the Edge of the Wild (1. časť)"
-Authors: „Bifi“
+Authors: Michal „Bifi“ Sedlačko
 Tags: recenze, Tolkien, Středozem, The One Ring
 Color: red
 ---

@@ -1,6 +1,6 @@
 ---
 Title: "Příběh Ranefera, syna Ptahhotepova"
-Authors: Pavel "Goran" Veselský
+Authors: Pavel „Goran“ Veselský
 Tags: povídka
 Color: gray
 ---

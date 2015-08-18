@@ -1,6 +1,6 @@
 ---
 Title: "RPG nebo LARP"
-Authors: Zayl
+Authors: Lukáš „Zayl“ Dubský
 Tags: alternativní hraní, larp
 Color: gray
 ---

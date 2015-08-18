@@ -1,6 +1,6 @@
 ---
 Title: "Vetrnætr u Železného orla"
-Authors: Ján „Crowen“ Rosa
+Authors: Ján „crowen“ Rosa
 Tags: Dračí doupě 2, doplňky, materiály, svět
 Color: blue
 ---

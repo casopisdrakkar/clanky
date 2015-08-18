@@ -1,6 +1,6 @@
 ---
 Title: "FATE - Na (roz)hraní (3.)"
-Authors: Joe
+Authors: Jozef „Joe“ Kundlák
 Tags: Fate, Fudge, Spirit of the Century
 Color: gray
 ---

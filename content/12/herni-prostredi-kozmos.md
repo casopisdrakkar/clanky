@@ -1,6 +1,6 @@
 ---
 Title: "Herní prostředí KOZMOS"
-Authors: Ecthelion
+Authors: Ecthelion²
 Tags: světy, herní prostředí, kozmos, vesmír
 Color: gray
 ---

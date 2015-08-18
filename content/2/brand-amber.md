@@ -1,6 +1,6 @@
 --- 
 Title: Brand Amber
-Authors: Dalcor 
+Authors: Dalibor „Dalcor“ Zeman
 Tags: doplňky pro hru, Cadwallon, nehráčské postavy
 Color: blue
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=4528

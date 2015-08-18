@@ -1,6 +1,6 @@
 ---
 Title: "Odplata a hřích"
-Authors: Petr "ilgir" Chval
+Authors: Petr „ilgir“ Chval
 Tags: povídka
 Color: gray
 ---

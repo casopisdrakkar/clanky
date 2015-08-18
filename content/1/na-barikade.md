@@ -1,6 +1,6 @@
 ---
 Title: Na barikádě
-Authors: Roman „RomiK“ Hora 
+Authors: Roman „RomiK“ Hora
 Tags: hraní
 Color: green
 Fulltext: yes

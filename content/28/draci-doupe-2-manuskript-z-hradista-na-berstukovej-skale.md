@@ -1,6 +1,6 @@
 ---
 Title: "Dračí doupě 2: Manuskript z hradišťa na Berstukovej skale"
-Authors: Ján „Crowen“ Rosa
+Authors: Ján „crowen“ Rosa
 Tags: Dračí doupě 2, doplňky, materiály, znamení
 Color: red
 ---

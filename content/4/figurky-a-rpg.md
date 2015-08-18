@@ -1,6 +1,6 @@
 ---
 Title: "Figurky a RPG"
-Authors: Dalcor
+Authors: Dalibor „Dalcor“ Zeman
 Tags: figurky, herní pomůcky 
 Color: gray
 ---

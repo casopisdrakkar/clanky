@@ -1,6 +1,6 @@
 ---
 Title: "Project Dark Beta"
-Authors: „Aljen“
+Authors: Aljen
 Tags: recenze, kickstarter, sci-fi
 Fulltext: no
 Color: red

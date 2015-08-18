@@ -1,6 +1,6 @@
 ---
 Title: Středověké reálie pro tvorbu fantasy světů
-Authors: Ecthelion
+Authors: Ecthelion²
 Tags: středověk, historie
 Color: green
 ---

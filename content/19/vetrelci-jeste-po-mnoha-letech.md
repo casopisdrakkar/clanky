@@ -1,6 +1,6 @@
 ---
 Title: "Vetřelci ještě po mnoha letech"
-Authors: „Argonantus“
+Authors: Argonantus
 Tags: Vetřelci, literatura, fikce
 Color: blue
 ---

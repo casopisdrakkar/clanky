@@ -1,6 +1,6 @@
 ---
 Title: "Rodinná pouta"
-Authors: Julius "Kin" Karajos
+Authors: Julius Štěpán „Kin“ Karajos
 Tags: povídka
 Color: gray
 ---

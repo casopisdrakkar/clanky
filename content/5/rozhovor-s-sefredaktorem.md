@@ -1,6 +1,6 @@
 ---
 Title: "Rozhovor s šéfredaktorem"
-Authors: Zayl
+Authors: Lukáš „Zayl“ Dubský
 Tags: rozhovor
 Color: gray
 ---

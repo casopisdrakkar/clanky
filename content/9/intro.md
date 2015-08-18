@@ -2,6 +2,7 @@
 Title: Intro
 Authors: Petr „Acidburn“ Bouda
 Tags: téma čísla
+Fulltext: yes
 ---
 
 Je začátek srpna, prázdniny se dostávají do své druhé poloviny a na Vás čeká další, již deváté číslo časopisu Drakkar. Pokud šlo všechno dobře, měla by být alespoň část článků zaměřená na období třicátých let minulého století, kteréžto časové období mezi dvěma světovými válkami se stalo podporovaným „settingem“ RPG fóra. Ostatně, podobně tematicky zaměřené bylo i únorové číslo, kde se náhodou sešlo několik článků pojednávajících o RPG využívajících japonské manga komiksy. Tehdy to byla pouhá náhoda, neb redakci Drakkaru nespojuje týmová práce a pokud to tak vypadá, je to výsledek individuálních akcí jedinců.

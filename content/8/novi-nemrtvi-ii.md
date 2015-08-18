@@ -1,6 +1,6 @@
 ---
 Title: "Noví nemrtví II"
-Authors: Acidburn
+Authors: Petr „Acidburn“ Bouda
 Tags: doplňky pro hru, Dračí Doupě, nemrtví, příšery
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=5898

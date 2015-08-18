@@ -1,6 +1,6 @@
 ---
 Title: "Skryté světy – Nullaqua"
-Authors: „Aljen“
+Authors: Aljen
 Tags: sci-fi, vesmír, žánry, styly, civilizace, rasy
 Color: blue
 ---

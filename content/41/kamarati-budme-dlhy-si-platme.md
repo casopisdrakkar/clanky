@@ -1,6 +1,6 @@
 ---
 Title: "Kamaráti buďme, dlhy si plaťme"
-Authors: Ján "Crowen" Rosa
+Authors: Ján „crowen“ Rosa
 Tags: o hraní obecně, tipy a triky
 Color: red
 ---

@@ -1,6 +1,6 @@
 ---
 Title: "Špeciálne jednotky"
-Authors: Ján „Crowen“ Rosa
+Authors: Ján „crowen“ Rosa
 Tags: speciální jednotky, commandos
 Color: red
 ---

@@ -1,6 +1,6 @@
 ---
 Title: "Zbraně a zbroje"
-Authors: ilgir
+Authors: Petr „ilgir“ Chval
 Tags: historie, zbraně, zbroje
 Color: gray
 Fulltext: yes

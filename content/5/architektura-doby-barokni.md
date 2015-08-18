@@ -1,6 +1,6 @@
 ---
 Title: "Architektura doby barokní"
-Authors: ilgir
+Authors: Petr „ilgir“ Chval
 Tags: architektura, baroko, historie
 Color: gray
 Fulltext: yes

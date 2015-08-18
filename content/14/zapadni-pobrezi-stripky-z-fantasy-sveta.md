@@ -1,6 +1,6 @@
 ---
 Title: "Západní pobřeží: střípky z fantasy světa"
-Authors: Ecthelion2
+Authors: Ecthelion²
 Tags: fantasy, světy, herní světy, doplňky
 Color: gray
 ---

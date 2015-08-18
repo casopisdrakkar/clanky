@@ -1,6 +1,6 @@
 --- 
 Title: Hraní v době bronzové II
-Authors: Goran
+Authors: Pavel „Goran“ Veselský
 Tags: RPG obecně, doba bronzová, Egypt, herní prostředí, historie, Mezopotámie, předkolumbovská Amerika
 Color: green
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=4528

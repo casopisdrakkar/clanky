@@ -1,6 +1,6 @@
 ---
 Title: "Smrt"
-Authors: Roman "Romik" Hora
+Authors: Roman „RomiK“ Hora
 Tags: povídka
 Color: gray
 ---

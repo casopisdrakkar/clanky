@@ -1,6 +1,6 @@
 ---
 Title: „Alignment“ a „přesvědčení“
-Authors: „Ecthelion2“
+Authors: Ecthelion²
 Tags: herní mechaniky, herní principy, o hraní obecně
 Color: green
 ---

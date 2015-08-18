@@ -1,6 +1,6 @@
 ---
 Title: "DrD II: Iniciativa"
-Authors: Martin „Mytko“ Mýtny
+Authors: Martin „Mytko” Mýtny
 Tags: Dračí doupě 2, pravidla, dodatky, iniciativa
 Color: green
 Fulltext: no 

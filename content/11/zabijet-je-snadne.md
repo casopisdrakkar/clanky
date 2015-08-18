@@ -1,6 +1,6 @@
 ---
 Title: "Zabíjet je snadné"
-Authors: Pavel "Goran" Veselský
+Authors: Pavel „Goran“ Veselský
 Tags: povídka
 Color: gray
 ---

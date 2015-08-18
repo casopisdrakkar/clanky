@@ -1,6 +1,6 @@
 ---
 Title: "Stories of the Empire"
-Authors: Ecthelion2
+Authors: Ecthelion²
 Tags: Příběhy impéria, Stories of the  Empire, steampunk
 Color: green
 ---

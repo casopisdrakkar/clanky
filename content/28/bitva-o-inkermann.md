@@ -1,6 +1,6 @@
 ---
 Title: "Bitva o Inkermann"
-Authors: Ecthelion2
+Authors: Ecthelion²
 Tags: bitva, historie
 Color: blue
 ---

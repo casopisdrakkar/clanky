@@ -1,6 +1,6 @@
 ---
 Title: "Případ válečného plánu na zničení imperialismu"
-Authors: „Argonantus“
+Authors: Argonantus
 Tags: historie, válka, armáda
 Color: blue
 Fulltext: no 

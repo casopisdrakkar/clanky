@@ -1,6 +1,6 @@
 ---
 Title: "Cadwallon: Příjezd"
-Authors: Dalcor
+Authors: Dalibor „Dalcor“ Zeman
 Tags: Cadwallon, povídka
 Color: gray
 ---

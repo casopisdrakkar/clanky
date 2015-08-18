@@ -1,6 +1,6 @@
 --- 
 Title: Cadwallon
-Authors: Dalcor
+Authors: Dalibor „Dalcor“ Zeman
 Tags: RPG Systémy, Cadwallon, recenze
 Color: blue
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=4528

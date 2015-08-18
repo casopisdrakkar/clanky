@@ -1,6 +1,6 @@
 ---
 Title: "Planetární invaze s fyzikou v zádech"
-Authors: „Jerson“
+Authors: Jan „Jerson“ Průcha
 Tags: o hraní obecně, vesmír, planety
 Color: blue
 ---

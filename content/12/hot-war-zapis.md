@@ -1,6 +1,6 @@
 ---
 Title: "Hot War - zápis"
-Authors: Ecthelion
+Authors: Ecthelion²
 Tags: Hot War, okupace, zápis z hry
 Color: gray
 ---

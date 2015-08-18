@@ -1,6 +1,6 @@
 ---
 Title: "Recenze hororů"
-Authors: Lukáš „Zayl” Dubský
+Authors: Lukáš „Zayl“ Dubský
 Tags: horror, recenze, filmy, 
 Color: gray
 ---

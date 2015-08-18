@@ -1,6 +1,6 @@
 ---
 Title: "Play Dirty, epizóda 1: Zašpiňte si ruky"
-Authors: „alef0“
+Authors: John Wick, alef0
 Tags: Play Dirty, inspirace, hraní, techniky
 Color: red
 ---

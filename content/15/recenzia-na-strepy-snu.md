@@ -1,6 +1,6 @@
 ---
 Title: "Recenzia na Střepy snů"
-Authors: Michal „Bifi“ Sedlačko“
+Authors: Michal „Bifi“ Sedlačko
 Tags: Střepy snů, recenze
 Color: maroon
 ---

@@ -1,6 +1,6 @@
 ---
 Title: "Vyhodnocení soutěže o nejlepší postavu 2008"
-Authors: Markus
+Authors: Jiří „Markus“ Petrů
 Tags: Čas pro hrdiny, doplňky pro hru, Dračí doupě plus, Dungeons and Dragons 3e a 3.5e, Fate, GURPS, Lineage, nehráčské postavy, Risus, Shadowrun, Styx, The Window, tvorba postavy, World of Darkness (nový)
 Color: gray
 ---

@@ -1,6 +1,6 @@
 ---
 Title: "Přístavy a přístaviště"
-Authors: "Vallun"
+Authors: Vallun
 Tags: historie a realita, lodě
 ---
 Již v úvodní stati námořnické série byly

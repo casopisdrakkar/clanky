@@ -1,6 +1,6 @@
 ---
 Title: "Husitská trilogie Andrzeje Sapkowského"
-Authors: Acidburn
+Authors: Petr „Acidburn“ Bouda
 Tags: recenze, literatura, husiti, Sapkowski
 Color: gray
 ---

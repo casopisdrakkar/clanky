@@ -1,6 +1,6 @@
 ---
 Title: "Troglodyte terror"
-Authors: Roman "Romik" Hora
+Authors: Roman „RomiK“ Hora
 Tags: dobrodružství, D&D 4e, Forgotten Realms, Underdark, Podtemno
 Color: gray
 PDF: drakkar_2009_13_duben_dobrodruzstvi_troglodyte_terror.pdf 

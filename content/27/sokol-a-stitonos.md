@@ -1,6 +1,6 @@
 ---
 Title: "Sokol a štítonoš"
-Authors: Michaela Merglová
+Authors: Michaela „Miška“ Merglová
 Tags: povídka
 Color: green
 ---

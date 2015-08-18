@@ -1,6 +1,6 @@
 ---
 Title: "Pulp!"
-Authors: Ecthelion2
+Authors: Ecthelion²
 Tags: pulp, styly, žánry
 Color: blue
 ---

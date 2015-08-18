@@ -1,6 +1,6 @@
 ---
 Title: "Nic se nezmění"
-Authors: Petr „Ilgir“ Chval
+Authors: Petr „ilgir“ Chval
 Tags: povídka
 Color: gray
 ---

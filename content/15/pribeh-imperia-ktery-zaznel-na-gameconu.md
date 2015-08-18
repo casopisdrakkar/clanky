@@ -1,6 +1,6 @@
 ---
 Title: "Příběh Impéria, který zazněl na Gameconu"
-Authors: Ecthelion2
+Authors: Ecthelion²
 Tags: zápis, Příběhy impéria, Gamecon
 Color: gray
 ---

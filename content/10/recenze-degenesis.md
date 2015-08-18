@@ -1,6 +1,6 @@
 ---
 Title: "Recenze Degenesis"
-Authors: Bifi
+Authors: Michal „Bifi“ Sedlačko
 Tags: DeGenesis, postapokalypsa, recenze
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=6179

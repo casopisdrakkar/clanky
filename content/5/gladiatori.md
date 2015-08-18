@@ -1,6 +1,6 @@
 ---
 Title: "Gladiátoři"
-Authors: Acidburn
+Authors: Petr „Acidburn“ Bouda
 Tags: doplňky pro hru, Dračí Doupě, fantasy, gladiátoři, zbraně
 Color: gray
 Fulltext: yes

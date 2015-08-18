@@ -1,6 +1,6 @@
 ---
 Title: "Lovecraft okultní"
-Authors: „Argonantus“
+Authors: Argonantus
 Tags: Lovecraft, okultizmus, Cthulhu, literatura, fikce
 Color: blue
 ---

@@ -1,6 +1,6 @@
 ---
 Title: "Dobrodružstvo: Železo pre čiernu ruku"
-Authors: Ján „Crowen“ Rosa
+Authors: Ján „crowen“ Rosa
 Tags: Dračí doupě 2, dobrodružství, fantasy
 Color: red
 ---

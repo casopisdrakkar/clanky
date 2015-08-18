@@ -1,6 +1,6 @@
 ---
 Title: "Středověká inkvizice"
-Authors: ilgir
+Authors: Petr „ilgir“ Chval
 Tags: historie, inkvizice, kacíři, křesťanství, náboženství, středověká Evropa
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=5679

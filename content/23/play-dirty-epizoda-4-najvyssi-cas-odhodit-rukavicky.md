@@ -1,6 +1,6 @@
 ---
 Title: "Play Dirty: Epizóda 4: Najvyšší čas odhodiť rukavičky"
-Authors: „Alef0“
+Authors: John Wick, alef0
 Tags: překlad, Play Dirty
 Color: blue
 ---

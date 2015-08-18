@@ -1,6 +1,6 @@
 ---
 Title: "Wilderness of Mirrors"
-Authors: Alef0
+Authors: John Wick, alef0
 Tags: recenze, Wilderness of Mirrors, špióni
 Color: green
 ---

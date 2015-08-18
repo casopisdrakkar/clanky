@@ -1,6 +1,6 @@
 ---
 Title: "Příběhy Impéria: Kniha dobrodružství"
-Authors: Ecthelion2
+Authors: Ecthelion²
 Tags: Příběhy Impéria, doplňky, steampunk
 Color: green
 ---

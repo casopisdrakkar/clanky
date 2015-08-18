@@ -1,6 +1,6 @@
 ---
 Title: "Město v bažinách – Noireau"
-Authors: Acidburn
+Authors: Petr „Acidburn“ Bouda
 Tags: doplňky pro hru, Dračí Doupě, lokace, příšery
 Color: gray
 ---

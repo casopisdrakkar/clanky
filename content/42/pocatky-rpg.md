@@ -1,6 +1,6 @@
 ---
 Title: "Počátky RPG"
-Authors: „Ecthelion2“
+Authors: Ecthelion²
 Tags: historie, teorie
 Color: blue
 Fulltext: no 

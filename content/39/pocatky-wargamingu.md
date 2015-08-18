@@ -1,6 +1,6 @@
 ---
 Title: Počátky wargamingu
-Authors: „Ecthelion2“
+Authors: Ecthelion²
 Tags: wargaming, historie
 Color: red
 ---

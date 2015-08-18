@@ -1,6 +1,6 @@
 ---
 Title: Festival Fantazie očima přednášejícího nováčka
-Authors: Petr „Ilgir“ Chval
+Authors: Petr „ilgir“ Chval
 Tags: reportáž
 ---
 

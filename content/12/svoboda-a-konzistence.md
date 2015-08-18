@@ -1,6 +1,6 @@
 ---
 Title: "Svoboda a konzistence"
-Authors: Pavel „Bajo” Kechajov
+Authors: Pavel „Bajo“ Kechajov
 Tags: úvaha, herní dizajn, herní teorie, o hraní obecně
 Color: gray
 ---

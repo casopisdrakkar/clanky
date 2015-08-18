@@ -1,6 +1,6 @@
 ---
 Title: "Jak vytvářet RPG dobrodružství a světy"
-Authors: Acidburn
+Authors: Petr „Acidburn“ Bouda
 Tags: klišé, příprava na hru, rady pro vypravěče, railroad, tvorba světa
 Color: gray
 Fulltext: yes

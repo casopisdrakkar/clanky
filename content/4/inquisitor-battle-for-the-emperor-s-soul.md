@@ -1,6 +1,6 @@
 ---
 Title: "Inquisitor: Battle For the Emperor's Soul"
-Authors: Dalcor
+Authors: Dalibor „Dalcor“ Zeman
 Tags: inkvizice, "Inquisitor - Battle For Emperor’s Soul", recenze, Warhammer 40000
 Color: gray
 ---

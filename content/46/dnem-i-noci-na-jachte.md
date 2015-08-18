@@ -1,6 +1,6 @@
 ---
 Title: Dnem i nocí na jachtě
-Authors: „Vallun“
+Authors: Vallun
 Tags: historie, realita, jachty, lodě
 Color: green
 ---

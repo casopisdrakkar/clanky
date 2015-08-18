@@ -1,6 +1,6 @@
 ---
 Title: "Icar"
-Authors: Joe
+Authors: Jozef „Joe“ Kundlák
 Tags: Icar, recenze, sci-fi
 Color: gray
 Fulltext: yes

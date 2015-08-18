@@ -2,6 +2,7 @@
 Title: "Ghost in the Shell a jeho využití v RPG"
 Authors: Petr „Acidburn“ Bouda
 Tags: o hraní obecně
+Fulltext: yes
 ---
 
 Předpokládám, že většině čtenářů není název Ghost in the Shell neznámý. Pokud si vybaví anime z roku 1995, jsou na správné stopě. Pokud dodám tři slova: „Stand Alone Complex“, většině čtenářů se vybaví jeden z nejlepších anime sci-fi (potažmo post-kyberpunk) seriálů poslední doby. A právě světu, ve kterém se děj filmů i seriálů odehrává, se budu věnovat v tomto článku.

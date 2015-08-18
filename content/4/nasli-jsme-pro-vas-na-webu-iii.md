@@ -1,6 +1,6 @@
 ---
 Title: "Našli jsme pro vás na webu III"
-Authors: Vitus
+Authors: Vítězslav „Vitus“ Pilmaier
 Tags: Našli jsme pro vás na webu, Dungeons and Dragons Adventures
 Color: gray
 ---

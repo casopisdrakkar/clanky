@@ -1,6 +1,6 @@
 ---
 Title: "Pohané: dobrodružství pro DnD 4e"
-Authors: Roman „Romik“ Hora
+Authors: Roman „RomiK“ Hora
 Tags: dobrodružství, Dungeons & Dragons, D&D 4e
 Color: gray
 ---

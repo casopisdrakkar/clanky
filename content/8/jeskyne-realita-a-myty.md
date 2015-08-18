@@ -1,6 +1,6 @@
 ---
 Title: "Jeskyně, realita a mýty"
-Authors: Goran
+Authors: Pavel „Goran“ Veselský
 Tags: historie, jeskyně, mytologie, podsvětí
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=5898

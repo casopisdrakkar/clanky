@@ -1,6 +1,6 @@
 ---
 Title: Legendy klubu dobrodruhů
-Authors: „Ecthelion2“
+Authors: Ecthelion²
 Tags: zápisy, Gamecon, Příběhy Impéria
 Color: blue
 ---

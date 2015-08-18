@@ -1,6 +1,6 @@
 ---
 Title: "Krutý osud"
-Authors: Zayl
+Authors: Lukáš „Zayl“ Dubský
 Tags: povídka
 Color: gray
 ---

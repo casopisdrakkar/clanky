@@ -1,6 +1,6 @@
 ---
 Title: "Středověká nekromantie"
-Authors: Petr „Ilgir“ Chval
+Authors: Petr „ilgir“ Chval
 Tags: historie, dějiny, nemrtví
 Color: blue
 ---

@@ -1,6 +1,6 @@
 ---
 Title: "Příručka Vypravěčství"
-Authors: „Alef0“
+Authors: alef0
 Tags: rady pro vypravěče, recenze
 Color: green
 Fulltext: no 

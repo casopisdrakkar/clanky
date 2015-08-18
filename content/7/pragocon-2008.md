@@ -1,6 +1,6 @@
 ---
 Title: "Pragocon 2008"
-Authors: Goran
+Authors: Pavel „Goran“ Veselský
 Tags: PragoCon, reporty z akcí
 Color: gray
 Discussion: http://rpgforum.cz/forum/iewtopic.php?t=5679

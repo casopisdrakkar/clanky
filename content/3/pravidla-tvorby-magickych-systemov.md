@@ -1,6 +1,6 @@
 ---
 Title: "Pravidla tvorby magických systémov"
-Authors: „dzappone“, Jozef „Joe“ Kundlak
+Authors: „dzappone“, Jozef „Joe“ Kundlák
 Tags: design, herní prostředí, magie, mechaniky, tvorba světa
 Color: gray
 Fulltext: yes

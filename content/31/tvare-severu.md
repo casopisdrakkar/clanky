@@ -1,6 +1,6 @@
 ---
 Title: "Tváre severu"
-Authors: Ján „Crowen“ Rosa
+Authors: Ján „crowen“ Rosa
 Tags: Dračí doupě 2, tvorba postav, Sever, doplňky, materiály
 Color: red
 ---

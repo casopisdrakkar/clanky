@@ -1,6 +1,6 @@
 ---
 Title: "Království prokletých"
-Authors: Ecthelion2
+Authors: Ecthelion²
 Tags: Vendetta, prostředí, doplňky
 Color: gray
 ---

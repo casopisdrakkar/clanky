@@ -1,6 +1,6 @@
 ---
 Title: "Víno, ženy... a zpěv?"
-Authors: Michaela "Miška" Merglová
+Authors: Michaela „Miška“ Merglová
 Tags: povídka
 Color: gray
 ---

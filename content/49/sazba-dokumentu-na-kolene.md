@@ -1,6 +1,6 @@
 ---
 Title: "Sazba dokumentů na koleně"
-Authors: Jakub Maruš
+Authors: Jakub „boubaque“ Maruš
 Tags: sazba
 Color: green
 ---

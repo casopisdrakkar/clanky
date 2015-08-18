@@ -1,6 +1,6 @@
 ---
 Title: "Kouzelné předměty pro DrD II, část I."
-Authors: kolektiv autorů
+Authors: rozliční autoři
 Tags: Dračí doupě 2, předměty, doplňky, materiály
 Color: green
 ---

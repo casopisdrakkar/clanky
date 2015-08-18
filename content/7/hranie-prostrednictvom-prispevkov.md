@@ -1,6 +1,6 @@
 ---
 Title: "Hranie prostredníctvom príspevkov"
-Authors: Joe
+Authors: Jozef „Joe“ Kundlák
 Tags: diskuzní fóra, hraní po internetu, internet
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=5679

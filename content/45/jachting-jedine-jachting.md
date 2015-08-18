@@ -1,6 +1,6 @@
 ---
 Title: Jachting, jedině jachting
-Authors: „Vallun“
+Authors: Vallun
 Tags: lodě, jachting, historie, realita
 Color: blue
 ---

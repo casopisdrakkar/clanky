@@ -1,6 +1,6 @@
 ---
 Title: "Vitus a jeho první GameCon"
-Authors: Vitus
+Authors: Vítězslav „Vitus“ Pilmaier
 Tags: Dračí doupě plus, DragonLance, GameCon, My Life with Master, reporty z akcí, Star Wars Saga Edition
 Color: gray
 ---

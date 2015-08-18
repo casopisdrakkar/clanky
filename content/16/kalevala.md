@@ -1,6 +1,6 @@
 ---
 Title: "Kalevala"
-Authors: Michaela Merglová
+Authors: Michaela „Miška“ Merglová
 Tags: Kalevala, sever, vypravěčství, mýty, inspirace, světy
 Color: violet
 ---

@@ -1,6 +1,6 @@
 ---
 Title: "Jiné zítřky"
-Authors: Petr „Ilgir” Chvál
+Authors: Petr „ilgir“ Chval
 Tags: povídka
 Color: gray
 ---

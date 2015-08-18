@@ -1,6 +1,6 @@
 ---
 Title: "Malí zelení mužíci. A kto ešte?"
-Authors: Ján „Crowen“ Rosa
+Authors: Ján „crowen“ Rosa
 Tags: vesmír, sci-fi, cyborg, robot, rasy
 Color: blue
 ---

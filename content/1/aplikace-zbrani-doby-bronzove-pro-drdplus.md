@@ -1,6 +1,6 @@
 ---
 Title: Aplikace zbraní doby bronzové pro DrD+
-Authors: Pavel „Goran“ Veselský 
+Authors: Pavel „Goran“ Veselský
 Tags: pravěk, zbraně, doba bronzová, DrD+
 Color: red
 Fulltext: yes

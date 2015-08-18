@@ -1,6 +1,6 @@
 ---
 Title: "Plavba na lodi Argó"
-Authors: Rozliční autoři
+Authors: rozliční autoři
 Tags: mýty a legendy, Argó, hrdinové, antika, Řecko
 Color: violet
 ---

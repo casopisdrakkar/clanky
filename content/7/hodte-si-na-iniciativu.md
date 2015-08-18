@@ -1,6 +1,6 @@
 ---
 Title: "Hoďte si na iniciatívu"
-Authors: Joe
+Authors: Jozef „Joe“ Kundlák
 Tags: Dungeons and Dragons 3e a 3.5e, komplikovaný systém, začátečníci, zápis ze hry
 Color: gray
 Fulltext: yes

@@ -1,6 +1,6 @@
 ---
 Title: "Cizí postavy v historické fantasy II."
-Authors: Petr „Ilgir“ Chval
+Authors: Petr „ilgir“ Chval
 Tags: NPC, cizí postavy, historie, realita
 Color: blue
 ---

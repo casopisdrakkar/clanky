@@ -1,6 +1,6 @@
 ---
 Title: "Lachtan, který přece jen vyplil"
-Authors: Ecthelion
+Authors: Ecthelion²
 Tags: historie
 Color: red
 ---

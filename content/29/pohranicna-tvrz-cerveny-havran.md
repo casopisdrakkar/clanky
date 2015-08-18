@@ -1,6 +1,6 @@
 ---
 Title: "Pohraničná tvrz Červený havran"
-Authors: Ján „Crowen“ Rosa
+Authors: Ján „crowen“ Rosa
 Tags: Dračí doupě 2, doplňky, materiály, scéna
 Color: blue
 ---

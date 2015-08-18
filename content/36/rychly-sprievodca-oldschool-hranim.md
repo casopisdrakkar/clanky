@@ -1,6 +1,6 @@
 ---
 Title: "Rýchly sprievodca oldschool hraním"
-Authors: Alef0
+Authors: alef0
 Tags: překlad, Old-school, doplňky
 Color: gray
 ---

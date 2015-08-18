@@ -1,6 +1,6 @@
 ---
 Title: "Proč horor?"
-Authors: „Argonantus“
+Authors: Argonantus
 Tags: žánry, styly, horor, fikce, literatura
 Color: blue
 ---

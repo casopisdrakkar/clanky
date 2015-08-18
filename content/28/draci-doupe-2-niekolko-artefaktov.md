@@ -1,6 +1,6 @@
 ---
 Title: "Dračí doupě 2: Niekoľko artefaktov"
-Authors: „Aljen“
+Authors: Aljen
 Tags: Dračí doupě 2, doplňky, materiály, předměty
 Color: red
 ---

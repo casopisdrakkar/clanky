@@ -1,6 +1,6 @@
 ---
 Title: Planetární invaze
-Authors: „Ecthelion2“
+Authors: Ecthelion²
 Tags: o hraní obecně, sci-fi, planety
 Color: red
 ---

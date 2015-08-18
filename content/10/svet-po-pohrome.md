@@ -1,6 +1,6 @@
 ---
 Title: "Svět po pohromě"
-Authors: Acidburn
+Authors: Petr „Acidburn“ Bouda
 Tags: herní prostředí, postapokalypsa, Waste World
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=6179

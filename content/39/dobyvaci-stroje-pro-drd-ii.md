@@ -1,6 +1,6 @@
 ---
 Title: Dobývací stroje pro DrD II
-Authors: Ján „Crowen“ Rosa
+Authors: Ján „crowen“ Rosa
 Tags: doplňy, materiály, Dračí doupě 2
 Color: green
 ---

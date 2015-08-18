@@ -1,6 +1,6 @@
 ---
 Title: "Kráľ meymunov"
-Authors: Michal Viskup
+Authors: Michal „Morech“ Viskup
 Tags: povídka
 Color: green
 ---

@@ -1,6 +1,6 @@
 ---
 Title: "Og, vykopaná edice"
-Authors: Goran
+Authors: Pavel „Goran“ Veselský
 Tags: dinosauři, fraška, historie, Og, pravěk, recenze
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?f=204&t=6488

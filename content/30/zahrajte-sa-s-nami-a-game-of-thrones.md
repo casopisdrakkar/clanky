@@ -1,6 +1,6 @@
 ---
 Title: "Zahrajte sa s nami: A Game of Thrones"
-Authors: Alef0
+Authors: alef0
 Tags: Zahrajte sa s nami, deskové hry, Game of Thrones
 Color: green
 ---

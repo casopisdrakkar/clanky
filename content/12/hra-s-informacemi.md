@@ -1,6 +1,6 @@
 ---
 Title: "Hra s informacemi"
-Authors: Jakub „Boubaque” Maruš
+Authors: Jakub „boubaque“ Maruš
 Tags: herní styly, hraní, vedení hry
 Color: gray
 ---

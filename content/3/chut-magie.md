@@ -1,6 +1,6 @@
 ---
 Title: "Chuť magie"
-Authors: Goran
+Authors: Pavel „Goran“ Veselský
 Tags: magie, povaha postavy
 Color: gray
 Summary: Jako hráči RPG jste se určitě ve hře setkali s kouzly a kouzelníky, možná jste i nějakou kouzlící postavu hráli. Uvažovali jste přitom nad tím, co takový čaroděj při kouzlení cítí? A jak jej magie ovlivňuje? Ne? Tak se můžete zamyslet aspoň nad tím, co jsem k tomuto tématu vybádal já.

@@ -1,6 +1,6 @@
 ---
 Title: "Aljenov almanach artefaktov"
-Authors: „Aljen“
+Authors: Aljen
 Tags: Dračí doupě 2, doplňky, materiíly
 Color: red
 ---

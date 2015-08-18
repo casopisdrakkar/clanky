@@ -1,6 +1,6 @@
 ---
 Title: "Cadwallon: Dobré ráno, Somo"
-Authors: Dalcor
+Authors: Dalibor „Dalcor“ Zeman
 Tags: Cadwallon, povídka
 Color: gray
 ---

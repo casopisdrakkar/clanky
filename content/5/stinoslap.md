@@ -1,6 +1,6 @@
 ---
 Title: "Stínošlap"
-Authors: Goran
+Authors: Pavel „Goran“ Veselský
 Tags: doplňky pro hru, Dračí doupě plus, příšery
 Color: gray
 ---

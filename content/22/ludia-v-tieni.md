@@ -1,6 +1,6 @@
 ---
 Title: "Ľudia v tieni"
-Authors: Ján „Crowen“ Rosa
+Authors: Ján „crowen“ Rosa
 Tags: doplňky, materiály, NPC, postavy
 Color: blue
 ---

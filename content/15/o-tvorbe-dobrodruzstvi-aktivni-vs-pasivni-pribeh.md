@@ -1,6 +1,6 @@
 ---
 Title: "O tvorbě dobrodružství: Aktivní vs. pasivní příběh"
-Authors: Petr „Ilgir“ Chval
+Authors: Petr „ilgir“ Chval
 Tags: tvorba, dizajn, dobrodružství
 Color: green
 ---

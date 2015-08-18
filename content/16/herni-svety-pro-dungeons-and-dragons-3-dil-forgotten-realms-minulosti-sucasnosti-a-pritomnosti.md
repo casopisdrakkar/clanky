@@ -1,6 +1,6 @@
 ---
 Title: "Herní světy pro Dungeons and Dragons, 3. díl: Forgotten Realms minulosti, súčasnosti a prítomnosti"
-Authors: „alef0“
+Authors: alef0
 Tags: Forgotten Realms, Dungeons & Dragons, světy, inspirace
 Color: orange
 ---

@@ -1,6 +1,6 @@
 ---
 Title: "Industriálné město ve věku páry"
-Authors: Ecthelion2
+Authors: Ecthelion²
 Tags: materiály, doplňky, steampunk, novověk
 Color: green
 ---

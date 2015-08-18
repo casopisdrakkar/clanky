@@ -1,6 +1,6 @@
 ---
 Title: Vesmírný vrak
-Authors: různí autoři
+Authors: rozliční autoři
 Tags: sci-fi, doplňky, inspirace, vesmír
 Color: red
 ---

@@ -1,6 +1,6 @@
 ---
 Title: "Rurouni Kenshin"
-Authors: Acidburn
+Authors: Petr „Acidburn“ Bouda
 Tags: Japonsko, manga
 Color: gray
 ---

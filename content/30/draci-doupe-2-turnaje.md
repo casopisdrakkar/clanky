@@ -1,6 +1,6 @@
 ---
 Title: "Dračí doupě 2: Turnaje"
-Authors: Michal Viskup
+Authors: Michal „Morech“ Viskup
 Tags: Dračí doupě, předměty, turnaj, rytíři
 Color: blue
 ---

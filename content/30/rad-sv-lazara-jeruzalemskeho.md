@@ -1,6 +1,6 @@
 ---
 Title: "Řád sv. Lazara Jeruzalémského"
-Authors: Pavel „Goran“ Veselovský
+Authors: Pavel „Goran“ Veselský
 Tags: historie, rytíři
 Color: blue
 ---

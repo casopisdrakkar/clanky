@@ -1,6 +1,6 @@
 ---
 Title: "Pan vrchný, trochu šialenstva..."
-Authors: Boris „Aljen“ Nagaj
+Authors: Aljen
 Tags: inspirace, sen, šílenství, úvaha
 Color: red
 ---

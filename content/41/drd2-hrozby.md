@@ -1,6 +1,6 @@
 ---
 Title: "DrD II: Hrozby"
-Authors: Martin "Mytko" Mýtny
+Authors: Martin „Mytko” Mýtny
 Tags: Dračí doupě 2, hrozby, pravidlá
 Color: green
 ---

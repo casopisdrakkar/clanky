@@ -1,6 +1,6 @@
 ---
 Title: "Vliv demokratičnosti režimu na hraní RPG"
-Authors: Zayl
+Authors: Lukáš „Zayl“ Dubský
 Tags: fantasy, náboženství, totalita, tvorba světa, vláda
 Color: gray
 

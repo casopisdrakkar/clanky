@@ -1,6 +1,6 @@
 ---
 Title: "Drakkar"
-Authors: „Vallun“
+Authors: Vallun
 Tags: historie a realita, lodě, přístavy, drakkar
 Color: red
 ---

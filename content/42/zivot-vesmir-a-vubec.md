@@ -1,6 +1,6 @@
 ---
 Title: "Život, vesmír a vůbec"
-Authors: „OnGe”
+Authors: „OnGe“
 Tags: vesmír, realie
 Color: blue
 Fulltext: no 

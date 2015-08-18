@@ -1,6 +1,6 @@
 ---
 Title: "Hot War"
-Authors: Michal „Bifi” Sedlačko
+Authors: Michal „Bifi“ Sedlačko
 Tags: Hot War, Cold War, okupace, systémy, recenze
 Color: gray
 ---

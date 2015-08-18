@@ -1,6 +1,6 @@
 ---
 Title: "Aké špinavé tajomstvá skrýva VAŠE mesto?"
-Authors: Peter „Peekay” Kopáč
+Authors: Peter „Peekay“ Kopáč
 Tags: Dirty Secrets, detektivka, noir, recenze
 Color: red
 ---

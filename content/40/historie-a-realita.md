@@ -1,6 +1,6 @@
 ---
 Title: Přeprava lodí a po vodě vůbec
-Authors: „Vallun“ 
+Authors: Vallun
 Color: green
 Tags: lodě, plavba, historie, realita 
 ---

@@ -1,6 +1,6 @@
 ---
 Title: "Usagi Yojimbo Role-Playing Game"
-Authors: boubaque
+Authors: Jakub „boubaque“ Maruš
 Tags: recenze, Usagi Yojimbo
 Color: gray
 ---

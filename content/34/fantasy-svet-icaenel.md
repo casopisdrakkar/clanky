@@ -1,6 +1,6 @@
 ---
 Title: "Fantasy svět Icaenel"
-Authors: „Onge“
+Authors: „OnGe“
 Tags: Icanael, světy, fantasy
 Color: green
 ---

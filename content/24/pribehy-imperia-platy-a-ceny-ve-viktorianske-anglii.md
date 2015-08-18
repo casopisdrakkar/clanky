@@ -1,6 +1,6 @@
 ---
 Title: "Příběhy Impéria: Platy a ceny ve viktoriánské Anglii"
-Authors: Ecthelion^2
+Authors: Ecthelion²
 Tags: Příběhy Impéria, ceny, platy, historie, realita
 Color: green
 ---

@@ -1,6 +1,6 @@
 ---
 Title: Worldbuilding – část 2.
-Authors: „Onge“
+Authors: „OnGe“
 Tags: worldbuilding, světy
 Color: green
 ---

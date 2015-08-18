@@ -1,6 +1,6 @@
 ---
 Title: "Kruhy"
-Authors: Jan "Jerson" Průcha
+Authors: Jan „Jerson“ Průcha
 Tags: povídka
 Color: gray
 ---

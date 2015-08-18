@@ -1,6 +1,6 @@
 ---
 Title: "Inspirace nebo plagiátorství?"
-Authors: Acidburn
+Authors: Petr „Acidburn“ Bouda
 Tags: autorská práva, inspirace
 Color: gray
 Fulltext: yes

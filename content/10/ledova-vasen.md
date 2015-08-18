@@ -1,6 +1,6 @@
 ---
 Title: "Ledová vášeň"
-Authors: Petr "Ilgir" Chval
+Authors: Petr „ilgir“ Chval
 Tags: povídka, zápis z hry, My Life With Master
 Color: gray
 ---

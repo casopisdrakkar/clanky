@@ -1,6 +1,6 @@
 ---
 Title: Našli jsme pro vás na webu
-Authors: Vítězslav „Vitus“ Pilmaier 
+Authors: Vítězslav „Vitus“ Pilmaier
 Tags: aktuality
 Color: green
 Fulltext: yes

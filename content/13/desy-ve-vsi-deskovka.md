@@ -1,6 +1,6 @@
 ---
 Title: "Děsy ve vsi (deskovka)"
-Authors: Petr "ilgir" Chvál
+Authors: Petr „ilgir“ Chval
 Tags: desková hra, zdarma, příloha, nestvůry
 Color: gray
 PDF: drakkar_2009_13_duben_deskovka_desy_ve_vsy.pdf 

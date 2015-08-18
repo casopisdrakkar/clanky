@@ -1,6 +1,6 @@
 --- 
 Title: "Našli jsme pro vás na webu II: Dragonsfoot"
-Authors: Vitus
+Authors: Vítězslav „Vitus“ Pilmaier
 Tags: Internet, Našli jsme na webu, Advanced Dungeons and Dragons, Castles and Crusades, doplňky pro hru, Dungeons and Dragons (původní), internet, Lejendary Adventure, zajímavé odkazy
 Color: green 
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=4528 

@@ -1,6 +1,6 @@
 ---
 Title: "Houses of the Blooded: překlad kapitoly pro Vypravěče"
-Authors: „alef0“
+Authors: John Wick, alef0
 Tags: vypravěčství, tipy a triky, hraní
 Color: gray
 ---

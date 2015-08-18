@@ -1,6 +1,6 @@
 ---
 Title: "Harry Potter"
-Authors: ilgir
+Authors: Petr „ilgir“ Chval
 Tags: Harry Potter, recenze, literatura
 Color: gray
 ---

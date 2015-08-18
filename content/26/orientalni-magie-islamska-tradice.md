@@ -1,6 +1,6 @@
 ---
 Title: "Orientální magie (islámská tradice)"
-Authors: Ecthelion2
+Authors: Ecthelion²
 Tags: Příběhy impéria, džini, doplňky, světy
 Color: red
 ---

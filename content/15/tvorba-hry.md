@@ -1,6 +1,6 @@
 ---
 Title: "Tvorba hry"
-Authors: Ecthelion2
+Authors: Ecthelion²
 Tags: tvorba hry, dizajn, RPG Kuchyně
 Color: green
 ---

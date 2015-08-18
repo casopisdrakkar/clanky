@@ -1,6 +1,6 @@
 ---
 Title: "Údolie vrán"
-Authors: Ján „Crowen“ Rosa
+Authors: Ján „crowen“ Rosa
 Tags: herné pomůcky, materiály, inspirace
 Color: red
 Fulltext: no 

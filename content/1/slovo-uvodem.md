@@ -1,6 +1,6 @@
 ---
 Title: Slovo úvodem
-Authors: Roman „RomiK“ Hora
+Authors: redakce
 Tags: úvodník
 Fulltext: yes
 ---

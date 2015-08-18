@@ -1,6 +1,6 @@
 ---
 Title: "Ilustrace (nejen) pro RPG"
-Authors: Ecthelion2
+Authors: Ecthelion²
 Tags: ilustrace, knihy, typografie, Příběhy Impéria
 Color: red
 ---

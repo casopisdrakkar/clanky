@@ -1,6 +1,6 @@
 ---
 Title: "Biele Peklo"
-Authors: Ján „Crowen“ Rosa
+Authors: Ján „crowen“ Rosa
 Tags: Příběhy impéria, světy, sci-fi, prostředí, doplňky, materiály, téma čísla
 Color: blue
 ---

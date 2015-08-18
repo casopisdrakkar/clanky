@@ -1,6 +1,6 @@
 ---
 Title: "WTF momenty v RPG"
-Authors: Jan "Jerson" Průcha
+Authors: Jan „Jerson“ Průcha
 Tags: Dračí Doupě, fraška, problémy, Shadowrun
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?f=204&t=6488

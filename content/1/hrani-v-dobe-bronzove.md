@@ -1,6 +1,6 @@
 ---
 Title: Hraní v době bronzové – doba bronzová obecně
-Authors: Pavel „Goran“ Veselský 
+Authors: Pavel „Goran“ Veselský
 Tags: historie, pravěk
 Color: blue
 Fulltext: yes

@@ -1,6 +1,6 @@
 ---
 Title: "Pán s hráběmi"
-Authors: „Argonantus“
+Authors: Argonantus
 Tags: povídka
 Fulltext: no
 Color: gray

@@ -1,6 +1,6 @@
 ---
 Title: "Spunky Knight"
-Authors: Petr "Acidburn" Bouda
+Authors: Petr „Acidburn“ Bouda
 Tags: recenze, manga, Spunky Knight
 Color: gray
 ---

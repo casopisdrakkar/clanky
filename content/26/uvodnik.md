@@ -13,7 +13,7 @@ Veríme však, že nie najhorším.
 
 Stálicou zborníka je „otravová séria“ Jana „Faskala“ Nováka a v tomto čísle sa venuje šípovým jedom. Ak ste nikdy netúžili zisťovať, čo presne znamená kurare z Dračího doupěte, tento článok vám to objasní.
 
-Rovnakým pravidelným pasažierom Drakkaru je aj Ján „Crowen“ Rosa a jeho séria o typoch (ne)hráčskych postáv v konkrétnych prostrediach. Dnes to bude o špeciálnych jednotkách, teda o všetkých tých vyslobodzovačoch, výsadkároch, snajperoch a ostatných nenahraditeľných typoch, ktoré dokážu kriticky zvrátiť chod vojenskej operácie.
+Rovnakým pravidelným pasažierom Drakkaru je aj Ján „crowen“ Rosa a jeho séria o typoch (ne)hráčskych postáv v konkrétnych prostrediach. Dnes to bude o špeciálnych jednotkách, teda o všetkých tých vyslobodzovačoch, výsadkároch, snajperoch a ostatných nenahraditeľných typoch, ktoré dokážu kriticky zvrátiť chod vojenskej operácie.
 
 V sérii Minirecenzií sa zase venujeme špiónsko-agentskej miniatúre Johna Wicka, Wilderness of Mirrors, ktorá je dôkazom toho, že žánrová hra nielenže nemusí mať tristo strán pravidiel, ale atmosféru a štýl typických príbehov môže simulovať oveľa lepšie, než ťažkotonážnejší kolegovia, a zároveň prinášať záplavu skvelých nápadov.
 

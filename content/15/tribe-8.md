@@ -1,6 +1,6 @@
 ---
 Title: "Tribe 8"
-Authors: Goran
+Authors: Pavel „Goran“ Veselský
 Tags: recenze, Tribe 8, postapo
 Color: maroon
 ---

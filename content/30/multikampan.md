@@ -1,6 +1,6 @@
 ---
 Title: "Multikampaň"
-Authors: Jerson
+Authors: Jan „Jerson“ Průcha
 Tags: hraní, tipy a triky, vědení hry
 Color: blue
 ---
