@@ -1,6 +1,6 @@
 ---
 Title: "Shadows"
-Authors: Pieta
+Authors: Petr „Pieta“ Jonák
 Tags: horor, hraní s dětmi, minimalistická hra, recenze, Shadows, recenze RPG
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?f=89&t=6467

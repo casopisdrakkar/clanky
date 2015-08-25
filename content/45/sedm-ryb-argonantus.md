@@ -1,6 +1,6 @@
 ---
 Title: Sedm ryb (Argonantus)
-Authors: „Fingalen“
+Authors: Juraj „Fingalen“ Pšenák
 Tags: recenze, literatura
 Color: red
 ---

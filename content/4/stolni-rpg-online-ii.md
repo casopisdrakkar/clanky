@@ -1,6 +1,6 @@
 ---
 Title: "Stolní RPG online II"
-Authors: Gran
+Authors: Filip „Gran“ Randák
 Tags: hraní po internetu, internet
 Color: gray
 ---

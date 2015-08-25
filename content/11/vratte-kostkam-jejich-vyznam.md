@@ -1,6 +1,6 @@
 ---
 Title: "Vraťte kostkám jejich význam"
-Authors: Markus
+Authors: Jiří „Markus“ Petrů
 Tags: konflikt, kostky, mechaniky, rady pro vypravěče, techniky, vyhodnocování konfliktů
 Color: gray
 Fulltext: yes

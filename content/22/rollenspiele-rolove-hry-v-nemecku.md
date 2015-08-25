@@ -1,6 +1,6 @@
 ---
 Title: "Rollenspiele: rolové hry v Německu"
-Authors: „Scolex“
+Authors: Stanislav „Scolex“ Nowak
 Tags: recenze, hry na hrdiny, Německo, Midgard, Engel, Degenesis, Elyrion
 Color: green
 ---

@@ -1,6 +1,6 @@
 ---
 Title: "Odvaha, vítězství a porážka ve Středozemi"
-Authors: Jonáš Ferenc
+Authors: Ecthelion²
 Tags: herní světy, Středozem
 Color: red
 ---

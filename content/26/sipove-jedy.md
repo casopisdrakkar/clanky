@@ -1,6 +1,6 @@
 ---
 Title: "Šípové jedy"
-Authors: Jan „Faskal“ Novák
+Authors: Josef „Faskal“ Novák
 Tags: jedy, lsti a intriky
 Color: blue
 ---

@@ -1,6 +1,6 @@
 ---
 Title: "Zahrajte sa s nami: Crusader Rex"
-Authors: Peter Kopáč a Petra Kopáčová
+Authors: Peter „Peekay“ Kopáč, Petra „Baelara“ Kopáčová
 Tags: Zahrajte sa s nami, deskové hry
 Color: red
 ---

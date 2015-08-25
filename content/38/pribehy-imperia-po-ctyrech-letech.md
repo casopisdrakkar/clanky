@@ -1,6 +1,6 @@
 ---
 Title: Příběhy Impéria po čtyřech letech
-Authors: Jonáš a Kryštof Ferencovi
+Authors: Ecthelion²
 Tags: Příběhy Impéria, hry, systémy, světy
 Color: red
 ---

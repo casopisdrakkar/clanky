@@ -1,6 +1,6 @@
 ---
 Title: "Staroseverské „prsteny moci“"
-Authors: „Staroseverské „prsteny moci““
+Authors: „Panda“
 Tags: Tolkien, prsteny, historie, mýtus
 Fulltext: no
 Color: green 
