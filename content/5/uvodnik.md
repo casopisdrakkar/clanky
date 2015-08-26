@@ -4,6 +4,7 @@ Authors: redakce
 Tags: úvodník
 Color: gray
 Summary: Úvodní slovo
+Fulltext: yes
 ---
 Prosinec – občas (v posledních letech však již zřídkakdy) měsíc sněhu, vždy ovšem měsíc oblíbených Vánoc a letos nově i měsíc Drakkaru. Jako každý sudý měsíc, i v prosinci vám opět přinášíme spoustu zajímavého, zábavného, ale i poučného čtení.
 

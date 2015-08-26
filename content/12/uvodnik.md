@@ -4,6 +4,7 @@ Authors: redakce
 Tags: úvodník
 Color: gray
 Summary: Úvodní slovo
+Fulltext: yes
 ---
 Přežili jste Vánoce? Přežíváte školu? Přežíváte práci? Přežíváte? Otázky, které musí být a mnohdy jsou položeny; co jich na světě je. Na úvodních několik otázek je jednoduchá odpověď – ano, Drakkar přežívá a plaví se dál po hladině internetového oceánu… Vlastně nepřežívá, Drakkar žije a je v plné síle. Drakkar proplul přístavem, opravil děravou palubu a naverboval nové námořníky.
 

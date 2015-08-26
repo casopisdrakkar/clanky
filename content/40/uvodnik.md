@@ -4,6 +4,7 @@ Authors: redakce
 Tags: úvodník
 Color: gray
 Summary: Úvodní slovo
+Fulltext: yes
 ---
 Drazí čtenáři!
 

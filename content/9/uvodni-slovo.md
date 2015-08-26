@@ -2,6 +2,7 @@
 Title: Úvodní slovo
 Authors: Jakub „boubaque“ Maruš
 Tags: editorial
+Fulltext: yes
 ---
 
 Číslo, které se vám právě dostalo do spárů, je označeno pořadovým číslem 9, což znamená naplnění třetího pololetí fungování Drakkaru. Znamená to pro nás ovšem víc, než jen to – devítka s sebou nese celou řadu významů. Když pomineme protonové číslo fluoru, počet planet ve sluneční soustavě před rokem 2006 a prstenové přízraky, dostaneme se k šťastným významům z kultur po celé zeměkouli – například k devíti andělským chórům na nebesích nebo šťastnému čínskému číslu, které zní stejně jako slovo pro dlouhé trvání. Číslo devět je také trojnásobkem magického čísla 3.

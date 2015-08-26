@@ -4,6 +4,7 @@ Authors: redakce
 Tags: úvodník
 Color: gray
 Summary: Úvodní slovo
+Fulltext: yes
 ---
 More šumí až po obzor, za ním zapadá krvavočervený kotúč slnka. Poletujúce čajky sadajú na vyprahnutý piesok a hľadajú zbytky po oddychujúcich turistoch. V diaľke sa črtá rybárska loď, vracajúca sa do neďalekého prístavu a niekoľko osamelých člnov a jácht bohatších návštevníkov. A vy sa pozeráte na tú idylku z plážového lehátka, na očiach slnečné okuliare, ešte stále cítite vôňu opaľovacieho krému na svojich rukách a tvári, zmiešanú so slanou príchuťou morskej vody. Bol to krásny deň, plný polihovania na pláži, obzerania dohneda opálených okoloidúcich príslušníkov opačného pohlavia a popíjania chladených nápojov. Sem-tam nejaká tá zmrzlinka. Aaaaachhhh…
 

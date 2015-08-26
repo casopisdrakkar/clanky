@@ -4,6 +4,7 @@ Authors: redakce
 Tags: úvodník
 Color: gray
 Summary: Úvodní slovo
+Fulltext: yes
 ---
 Desať... desať nás bolo, keď sme sa rozhodli presunúť k tej rozpadnutej budove. Myslel som si, že to neprežije nikto z nás. A skoro som sa nemýlil. Ostali sme len dvaja. Dvaja z desiatich. Dvaja, ktorí mali toľko šťastia, alebo boli takí blázni, že sa doplazili rozvalinami až k bývalej materskej škole a pritúlili sa k jej stenám, akoby nič iné na svete už neexistovalo. Možnože to dokonca bola aj pravda. Možno už neexistuje vôbec nič. Možno sme všetci šialení a máme len halucinácie, predstavy o svojom živote. Alebo už dávno spíme a toto všetko sa nám len sníva. Svoju nočnú moru si človek nikdy nevyberie...
 

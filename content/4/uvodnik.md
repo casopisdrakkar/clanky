@@ -4,6 +4,7 @@ Authors: redakce
 Tags: úvodník
 Color: gray
 Summary: Úvodní slovo
+Fulltext: yes
 ---
 Mnoho se změnilo od vydání posledního čísla. Nikoliv však v redakci Drakkaru, ale v našich osobních životech. Možná je to tím, že třetí číslo vycházelo 1\. srpna a toto, čtvrté číslo, vychází 8\. října. Září, podobně jako červen, je pro mnohé zlomovým měsícem. Školou povinným totiž v září začíná jejich docházka. Pracující mohou s radostí sledovat, jak ubozí školácí zase začínají vstávat a trávit své dny místo u her ve školních lavicích.
 

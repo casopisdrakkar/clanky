@@ -4,6 +4,7 @@ Authors: redakce
 Tags: úvodník
 Color: gray
 Summary: Úvodní slovo
+Fulltext: yes
 ---
 Vážení čtenáři, milé čtenářky,
 dostává se k vám třicáté první číslo časopisu Drakkar. V tomto čísle jsme (jak si můžete na následujících stranách všimnout) na základě debat se čtenáři mírně

@@ -4,6 +4,7 @@ Authors: redakce
 Tags: úvodník
 Color: gray
 Summary: Úvodní slovo
+Fulltext: yes
 ---
 Vážení čitatelia, po minulom Drakkare, ktorý sa zdal byť viac kolísavým člnom než hrdou loďou prichádza skutočná loď tejto flotily. Zahalený v pare, rachotiaci ozubenými kolesami, dymiaci z komína, pláva neohrozene smerom k Vám do jesenných popoludní (tiež charakteristických rannými hmlami) už 34. číslo.
 

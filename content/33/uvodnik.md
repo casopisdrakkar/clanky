@@ -4,6 +4,7 @@ Authors: redakce
 Tags: úvodník
 Color: gray
 Summary: Úvodní slovo
+Fulltext: yes
 ---
 Drahé čtenářky, drazí čtenáři,
 jak jste si jistě všimli v obsahu, toto číslo Drakkaru vám přináší pouze tři články. Není to omyl ani chyba, je to – alespoň z části – záměr. Jistě, kdo by chtěl v horoucím létě trávit hodiny u počítače místo u vody nebo při jiné letní činnosti? To přece nemůžeme chtít ani po vás, čtenářích, a nechtěli jsme to vyžadovat ani od (potenciálních) autorů.

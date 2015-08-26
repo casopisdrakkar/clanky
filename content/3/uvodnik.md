@@ -4,6 +4,7 @@ Authors: redakce
 Tags: úvodník
 Color: gray
 Summary: Úvodní slovo
+Fulltext: yes
 ---
 Polovina roku je již za námi a my jsme se dostali k číslu, které bude vždy poloviční v každém roce – třetímu. Toto číslo Drakkaru vzniká v době prázdnin, dovolených, z tohoto důvodu je o trochu chudší než čísla minulá a zároveň než čísla budoucí. Je to způsobeno právě tím, že stejně tak jako vy, i my bloudíme v této době po světě.
 

@@ -1,8 +1,9 @@
 ---
 Title: Úvodní haiku
 Authors: Redakce
-Tags: haiku
+Tags: haiku, úvodník
 Color: gray
+Fulltext: yes
 ---
 Západní vítr!
 

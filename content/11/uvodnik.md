@@ -4,6 +4,7 @@ Authors: redakce
 Tags: úvodník
 Color: gray
 Summary: Úvodní slovo
+Fulltext: yes
 ---
 Ach jo! Už jsou tu zase Vánoce a s nimi spousta chaosu. Pro některé z nás i zkouškové období, pro jiné doba nemocných dětí či gigantického úklidu svého hnízdečka. Prostě, jako každý rok nás čeká vlna nervozity, strachu a úsměvů na ostatní s tou krásnou výmluvou „Vždyť jsou přeci vánoce“. Naštěstí není všechno na Vánocích až tak špatné – třeba Drakkar. Ten vychází rovnou pod stromeček a já doufám, že vás i jeho další číslo potěší a zpříjemní vám pár velmi neurotických chvil.
 

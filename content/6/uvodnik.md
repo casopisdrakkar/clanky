@@ -4,6 +4,7 @@ Authors: redakce
 Tags: úvodník
 Color: gray
 Summary: Úvodní slovo
+Fulltext: yes
 ---
 Rád se s vámi shledávám u dalšího výjimečného čísla Drakkaru. Proč říkám výjimečného? Pojďme se na to podívat. Říká se, že by člověk měl začínat špatnými zprávami, a tak se budeme tohoto pořekadla držet.
 
