@@ -1,6 +1,6 @@
 ---
 Title: "Staroseverské „prsteny moci“"
-Authors: „Panda“
+Authors: Kamila „Panda“ Tomášková
 Tags: Tolkien, prsteny, historie, mýtus
 Fulltext: no
 Color: green 

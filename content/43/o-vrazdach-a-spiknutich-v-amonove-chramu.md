@@ -1,6 +1,6 @@
 ---
 Title: "O vraždách a spiknutích v Amonově chrámu: Rylandův papyrus č. IX"
-Authors: Kamila Tomášková
+Authors: Kamila „Panda“ Tomášková
 Tags: literatura, detektivky, historie a realita
 Fulltext: no
 Color: red
