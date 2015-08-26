@@ -1,6 +1,6 @@
 ---
 Title: "Skřetí jazyky ve Středozemi"
-Authors: David Salo / redakce
+Authors: David Salo, redakce
 Tags: o hraní obecně
 Color: blue
 ---
