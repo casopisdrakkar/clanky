@@ -1,6 +1,6 @@
 ---
 Title: "Hraniční země"
-Authors: „Cerberus“
+Authors: Ecthelion²
 Tags: Příběhy Impéria, doplňky
 Color: blue
 ---

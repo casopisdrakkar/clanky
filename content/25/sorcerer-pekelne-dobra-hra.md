@@ -1,6 +1,6 @@
 ---
 Title: "Sorcerer – pekelne dobrá hra"
-Authors: „Yeekap“
+Authors: Peter „Peekay“ Kopáč
 Tags: recenze, Sorcerer, příběhové hraní
 Color: green
 ---

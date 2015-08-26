@@ -1,6 +1,6 @@
 ---
 Title: "Přírodní jedy"
-Authors: „Pascal“
+Authors: Josef „Faskal“ Novák
 Tags: jedy, realita
 Color: blue
 ---

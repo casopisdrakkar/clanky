@@ -1,6 +1,6 @@
 ---
 Title: "Stars Without Number"
-Authors: „al-Icon“
+Authors: „Conlai“
 Tags: recenze, Stars Without number, sci-fi
 Color: green
 ---

@@ -1,6 +1,6 @@
 ---
 Title: "Civilizácia Sida Meiera – dosková hra"
-Authors: Dušan
+Authors: Dušan, Petra „Baelara“ Kopáčová
 Tags: Zahrajte sa s nami, deskové hry, Civilizace
 Color: blue
 ---

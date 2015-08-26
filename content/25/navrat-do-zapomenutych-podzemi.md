@@ -1,6 +1,6 @@
 ---
 Title: "Návrat do zapomenutých podzemí"
-Authors: „El Siniestro“
+Authors: Pavel „Bajo“ Kechajov
 Tags: old school, dungeon, jeskyně
 Color: red
 ---

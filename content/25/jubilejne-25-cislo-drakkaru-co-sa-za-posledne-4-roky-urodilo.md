@@ -1,6 +1,6 @@
 ---
 Title: "Jubilejné 25. číslo Drakkaru – čo sa za posledné 4 roky urodilo?"
-Authors: „NewOrc“
+Authors: Ján „crowen“ Rosa
 Tags: historie, Drakkar
 Color: blue
 ---

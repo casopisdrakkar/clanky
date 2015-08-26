@@ -1,6 +1,6 @@
 ---
 Title: "Rozhovor se Skavenem, vůdcem nakl. Mytago"
-Authors: „Cerberus“
+Authors: Ecthelion²
 Tags: rozhovor, Mytágo, vydávaní, tvorba
 Color: green
 ---

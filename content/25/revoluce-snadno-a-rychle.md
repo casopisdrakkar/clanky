@@ -1,6 +1,6 @@
 ---
 Title: "Revoluce snadno a rychle"
-Authors: El Commandante
+Authors: Jiří „Markus“ Petrů
 Tags: revoluce, historie
 Color: red
 ---
