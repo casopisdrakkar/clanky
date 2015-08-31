@@ -21,7 +21,7 @@ Jsme rádi, že v dnešním čísle se sešla i trojice tématicky „užších�
 Na závěr ještě dvě technické novinky:
 <ul>
 	<li> Drakkar má nyní <a href="http://www.facebook.com/pages/Drakkar-internetovy-casopis-o-RPG/113220105387685">fanouškovskou stránku na Facebooku</a>, kam budeme posílat veškeré novinky a zprávy o připravovaných či právě vycházejících číslech. Skupina je zatím mladá a skoro beze členů, takže spoléháme na vás: přijměte prosím naše pozvání. Máte-li nějaké kamarády, které by Drakkar mohl zajímat, budeme velmi rádi, když jim pošlete pozvánku.</li>
-	<li>A za druhé, Drakkar letos na jaře tiše oslavil své třetí narozeniny. Spolu s ním oslavily třetí narozeniny i jeho webové stránky, a bylo to na nich vidět. Možná vás tedy potěší, když vám řekneme, že právě rozjíždíme stránky nové a šikovnější, které nám vydrží třeba další tři roky. Najdete je tradičně na adrese <a href="http://drakka.rpgplanet.cz">drakkar.rpgplanet.cz</a>.</li>
+	<li>A za druhé, Drakkar letos na jaře tiše oslavil své třetí narozeniny. Spolu s ním oslavily třetí narozeniny i jeho webové stránky, a bylo to na nich vidět. Možná vás tedy potěší, když vám řekneme, že právě rozjíždíme stránky nové a šikovnější, které nám vydrží třeba další tři roky. Najdete je tradičně na adrese <a href="http://drakkar.sk">drakkar.sk</a>.</li>
 </ul>
 * * *
 

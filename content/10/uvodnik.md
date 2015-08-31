@@ -24,10 +24,4 @@ _- prechodné oblastné veliteľstvo / ruiny mestského úradu -_
 
 Ktorým smerom... ktorým smerom ich mám teraz poslať? Máme vôbec dostatok prášku? Niektoré výrobné haly boli samy napadnuté a onedlho opustené... Áno, seržant! Pošlite jednotku na sever, do rozvalín elektrárne! Tam teraz potrebujú posily! Je mi jedno, že v nej máte len päť mužov! Aj tí majú nohy a ruky, nie? Švihom!!... Ďalších päť, z ktorých sa možno traja nevrátia... ak budú mať šťastie... Kde je dopekla to južné krídlo? Už dávno mali postúpiť vpred... Och Bože, prečo som sa dnes ráno zobudil?
 
-<div class="poznamka">
 
-[PDF verze ke stažení](http://drakkar.rpgplanet.cz/2008/10/16/10/)
-
-V PDF verzi naleznete navíc i dvojici povídek **Rodinná pouta** a **Ledová vášeň**, dále recenzi na hentai **Spunky Knight** a zejména přeložená 32stránková pravidla rychlého startu pro **DeGenesis**.
-
-</div>

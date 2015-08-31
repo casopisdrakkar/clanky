@@ -6,7 +6,7 @@ Color: gray
 Fulltext: yes
 Discussion: http://rpgforum.cz/forum/viewtopic.php?f=118&t=6424
 ---
-Diskuzní server RPGforum.cz ve spolupráci s [časopisem Drakkar](http://drakkar.rpgplanet.cz/) vyhlašuje další ročník soutěže o nejlepší postavu. V jejím průběhu se utkáte s mnohými jinými hráči, kteří stejně jako vy budou tvořit postavu v libovolném systému a herním světě, ovšem s jedním společným cílem – soustředit se na co nejlepší „osobní příběh“. Odměnou za účast je samozřejmě dobrý pocit ze společné zábavy, nicméně vítěz od nás obdrží jako bonus i nové stolní RPG **World of Warcraft** od nakladatelství White Wolf a ilustraci dle vlastního výběru od Ecthelionů.
+Diskuzní server RPGforum.cz ve spolupráci s [časopisem Drakkar](http://drakkar.sk/) vyhlašuje další ročník soutěže o nejlepší postavu. V jejím průběhu se utkáte s mnohými jinými hráči, kteří stejně jako vy budou tvořit postavu v libovolném systému a herním světě, ovšem s jedním společným cílem – soustředit se na co nejlepší „osobní příběh“. Odměnou za účast je samozřejmě dobrý pocit ze společné zábavy, nicméně vítěz od nás obdrží jako bonus i nové stolní RPG **World of Warcraft** od nakladatelství White Wolf a ilustraci dle vlastního výběru od Ecthelionů.
 
 #### Soutěž probíhá do 11. 1., přesné instrukce najdete u konce článku  
 
