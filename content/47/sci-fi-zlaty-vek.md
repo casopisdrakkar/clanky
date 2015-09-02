@@ -1,7 +1,7 @@
 ---
 Title: "Sci-fi: o co tenkrát šlo v tom Zlatém věku a po něm"
 Authors: Argonantus
-Tags: literatura
+Tags: literatura, sci-fi
 Color: blue
 Fulltext: yes
 ---

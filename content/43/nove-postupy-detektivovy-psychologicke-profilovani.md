@@ -1,7 +1,7 @@
 ---
 Title: "Nové postupy detektivovy – Psychologické profilování"
 Authors: Vallun
-Tags: literatura, detektivky, historie a realita
+Tags: literatura, detektivka, historie, realita
 Fulltext: no
 Color: red
 ---

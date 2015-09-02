@@ -1,6 +1,6 @@
 ---
 Title: "Strach a chvění"
-Authors: Radim Trčálek
+Authors: Radim „smrq“ Trčálek
 Tags: povídka
 Color: gray
 ---

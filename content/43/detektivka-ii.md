@@ -1,7 +1,7 @@
 ---
 Title: "Detektivka II"
 Authors: Argonantus
-Tags: literature, detektivky
+Tags: literatura, detektivka
 Fulltext: no
 Color: green
 ---

@@ -1,7 +1,7 @@
 ---
 Title: "Detektivka kontra špionážní román"
 Authors: Vallun
-Tags: literature, detektivky
+Tags: literatura, detektivka
 Fulltext: no
 Color: green
 ---

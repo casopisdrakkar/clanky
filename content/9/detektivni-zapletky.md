@@ -1,7 +1,7 @@
 ---
 Title: Detektivní zápletky
 Authors: Pavel „Goran“ Veselský
-Tags: o hraní obecně
+Tags: o hraní obecně, detektivka, zápletky, hraní, žánry, styly
 Fulltext: yes
 ---
 

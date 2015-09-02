@@ -1,7 +1,7 @@
 ---
 Title: "Pravidlo tří stop"
 Authors: Justin Alexander
-Tags: literature, detektivky, překlad
+Tags: literatura, detektivka, překlad
 Fulltext: no
 Color: blue
 ---
