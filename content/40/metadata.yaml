@@ -1,11 +1,13 @@
 ---
 pdf: drakkar_2013_40_rijen.pdf 
 articles: 
-- uvodnik.html
+- uvodnik.md
 - aktuality.md
-- worldbuilding-iv-cast-prace-s-kritikou.md
+- worldbuilding-4-cast-prace-s-kritikou.md
 - legendy-klubu-dobrodruhu.md
-- historie-a-realita.md
+- preprava-lodi-a-po-vode-vubec.md 
 - horka-noc-v-londyne.md
-- pribeh-o-strasidle-ii-lide.md
+- pribeh-o-strasidle-2-lide.md
 - perak-od-mestske-legendy-k-superhrdinovi.md
+- vyroba-prototypu-deskove-hry-2.md
+- zahrajte-sa-s-nami-star-wars-card-game.md
