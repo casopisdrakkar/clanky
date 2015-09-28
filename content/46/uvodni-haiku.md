@@ -7,6 +7,6 @@ Fulltext: yes
 ---
 Západní vítr!
 
-Jak dlouhé mùže býti
+Jak dlouhé může býti
 
-marné èekání?
+marné čekání?
