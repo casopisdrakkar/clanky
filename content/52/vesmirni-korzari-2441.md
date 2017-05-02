@@ -1,6 +1,6 @@
 ---
 Title: "Vesmírni korzári: 2441"
-Authors: Ján „Crowen” Rosa
+Authors: Ján „crowen“ Rosa
 Tags: upoutávka, herní doplňky, Fate, Fate Rozcestí
 Color: red
 ---
