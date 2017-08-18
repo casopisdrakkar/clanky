@@ -27,7 +27,7 @@ V tomto článku jsem se pokusil nastínit strukturu bojové jednotky fiktivní
 
 I pouhá četa představuje na bojišti sílu, se kterou se musí počítat, a při správném nasazení dokáže způsobit opravdu hodně škody. Výhodami mechanizované pěchoty jsou především její vysoká mobilita a využívání kombinace skvěle vyzbrojených a vycvičených pěšáků a obrněných transportérů s těžkými zbraněmi. Četa má solidní palebnou sílu proti pěchotě a lehce pancéřovaným cílům (zbraně pěšáků, těžké kanony na transportérech a kulomety dronů), má ale také dostatek protitankových zbraní (za běžných okolností 14, v případě očekávání pancéřovaných cílů může střelec z každého týmu nést dodatečný protitankový raketomet a zvýšit počet zbraní na 20), aby dokázala zastavit útok obrněných transportérů, tanků nebo mimozemských tvorů chráněných pancířem.
 
-![](silhouettes-799420-128-opt.jpg)
+![obrazek](silhouettes-799420-128-opt.jpg)
 
 První četa může být nasazena buď v rámci celé roty Charlie, nebo také samostatně k plnění určených cílů. V případě, že nastane opravdu velký průšvih, pak velitelství sebere všechny dostupné jednotky, které jsou po ruce v dané oblasti. Pak by první četa bojovala po boku mužů z různých jednotek a pluků. Četa má k dispozici výsadkovou loď třídy X2, která dokáže přenést všechny její stroje a vojáky z oběžné dráhy na bojiště (případně mezi různými místy na planetě). Ve chvíli, kdy pronikne do atmosféry (nebo do blízkosti cílové oblasti), vypustí výsadková loď několik rojů malých dronů, které zamíří k nebezpečné oblasti jako první. Roje dronů zahltí protiletadlovou obranu a obrazovky obranných počítačů (mnohé navíc vysílají signály, vystřelují magneziové světlice, manévrují a na radaru je obtížné je odlišit od normálního cíle), napadnou postavení protiletadlové obrany (část z nich je vybavena výbušnými hlavicemi a řízeným pádem mohou zničit nepřátelské postavení) a provedou prvotní průzkum oblasti (poskytnou pilotovi lodě a veliteli informace o oblasti výsadku a místě přistání).
 
@@ -43,7 +43,7 @@ Sestává se z velitele čety, seržanta čety, virtuální inteligence ORCA, m
 
 __Velitel čety:__ poručík J. Williams, výrazné rysy: _výkonný, pružný, sběratel metálů / ambiciózní _– Velitel s hodností poručíka je zodpovědný za četu a její činnost v boji i mimo něj. S pomocí virtuální inteligence má na velícím stanovišti k dispozici satelitní mapy, záběry z  dronů a přenosy z kamer, které vojáci nesou na přilbách, může se tak snadno orientovat v situaci na bojišti.
 
-![](asg-669195-1280-fmt.jpg)
+![obrazek](asg-669195-1280-fmt.jpg)
 
 __Seržant čety:__ štábní seržant MacMurdoch, výrazné rysy: _křestní jméno „Seržant“, veterán tuctů bitev, nebere si servítky_ – Seržant čety je druhým v řetězci velení, asistuje a radí veliteli a v případě nepřítomnosti nebo úmrtí velitele přebírá velení čety. V případě, že četa vystoupí z transportérů, často vede muže přímo v boji, zatímco poručík zůstává na velitelském stanovišti (v případě, že naopak poručík vede vojáky přímo, zůstává na velitelském stanovišti, aby velel transportérům).
 
@@ -59,7 +59,7 @@ Každé ze tří střeleckých družstev je tvořeno velitelem družstva, medike
 
 __Velitel družstva:__ seržanti A. Woznieczki (výrazný rys: _horkokrevý a zbrklý_), J. Orosco (výrazný rys: _pocuchané nervy_) a W. Lacey (výrazný rys: _jeho muži ho budou následovat až do pekel a zpátky_) – Dle rozkazů velitele čety velí družstvu. Vydává rozkazy desátníkům, kteří vedou oba taktické týmy, ze kterých se družstvo skládá.
 
-![](soldier-60762-1280-opt.jpg)
+![obrazek](soldier-60762-1280-opt.jpg)
 
 __Medik družstva__ – Za normálních okolností funguje jako střelec, kdy kryje velitele družstva. V případě, že je některý ze spolubojovníků zraněn, dokáže rychle aplikovat základní první pomoc a krytý velitelem (nebo pověřeným vojákem, případně dvojicí) pak zajistit evakuaci zraněného za bitevní čáru.
 
@@ -82,6 +82,8 @@ Každý transportér má posádku tří mužů, z toho dva se starají o říze
 
 Posledním členem posádky transportéru je operátor dronu. Ten na svém stanovišti (počítačová konzole za řidičem a velitelem vozidla) řídí dron, který se za normálních okolností veze na střeše transportéru. V případě ohrožení jej vyšle do vzduchu, kde poskytuje veliteli informace o okolním bojišti. Sami operátoři jsou sice vyzbrojeni osobními zbraněmi, ale za normálních okolností zůstávají ve velitelském transportéru u svých terminálů a do boje zasahují pouze prostřednictvím svých strojů. Každý operátor má k dispozici malý průzkumný dron (drobných rozměrů, který slouží k průzkumu bojiště a může být v případě potřeby přímo řízen systémem ORCA) a větší útočný dron vyzbrojený kulometem a dvojicí neřízených raket. Ty pak poskytují přímou palebnou podporu každému z družstev (každý jednomu) a mohou rychle zasáhnout v případě nenadálého průlomu.
 
+![obrazek](parachuting-825147-128-opt.jpg)
+
 # Příklady misí
 
 * Zajištění orbitální stanice / těžební základny / terraformační stanice / kolonie, která se odmlčela. Četa je považována za dostatečnou sílu, která by měla zjistit situaci na místě, vypořádat se s problémy (povstáním kolonistů, útokem nepřátel, pirátů, mimozemských organismů) a obnovit spojení.
@@ -90,10 +92,4 @@ Posledním členem posádky transportéru je operátor dronu. Ten na svém stano
 * Abordáž nepřátelské lodi s poškozenými motory – četa musí nechat své obrněné transportéry na vlastní lodi, obléknout se do těžkých skafandrů a jako pěchota se propálit skrze průchody nebo oslabení pancířů do nepřátelské lodi. Bitva na palubě neznámé lodi a v úzkých chodbách, které dokáže několik mužů bránit proti přesile, bývá často zmatenou a zuřivou záležitostí, kde se bojuje na několika patrech a úrovních najednou, útočníci se snaží prorazit přes obranné pozice a zatlačit obránce zpět, zatímco obránci lákají útočníky do předem připravených obranných pozic a léček. Nezřídka bitva skončí těžkými ztrátami na obou stranách.
 * Průzkum neznámého místa (trosek mimozemské lodi uprostřed džungle, prastarého chrámu zapomenutého na nějakém měsíci, opuštěné základny, starého města, atp.), kde první četa má zajistit okolí a bezpečnost výzkumného týmu…. pro případ, že by existoval důvod, proč je zmíněné místo opuštěné; někdo je předběhl (a bylo třeba jej z místa nejprve vytlačit) nebo někdo dorazil až po nich, ale se stejným cílem.
 
-![](parachuting-825147-128-opt.jpg)
-
-
-
----
-
-![](59686.jpg)
+![obrazek](59686.jpg)

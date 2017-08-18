@@ -7,8 +7,8 @@ Fulltext: yes
 ---
 # Díl XVI. Persta atque obdura
 
-![](hrdina16.jpg)
+![obrazek](hrdina16.jpg)
 
 # Díl XVII. 03:16
 
-![](hrdina17.jpg)
+![obrazek](hrdina17.jpg)

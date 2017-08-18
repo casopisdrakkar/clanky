@@ -7,7 +7,7 @@ Fulltext: yes
 ---
 Před časem jsem si položil otázku: Co vlastně potřebuje vědět hráč nebo organizátor larpu, či případně pisatel steampunkové povídky o vzducholodích, pokud chce takový prvek zařadit do příběhu? Důvody, které mě k této otázce vedly, byly hned dva a jeden pádnější než druhý. Především jsem měl vypracovanou rozsáhlou přednášku o vzducholodích pro autory povídek z žánru steampunku, která však byla až tak rozsáhlá, že ji přežilo jen minimum duševně zdravých posluchačů. Přepracovat ji do lidštější podoby tedy bylo žádoucí.
 
-![](pyramids-67748-1280-fmt.jpg)
+![obrazek](pyramids-67748-1280-fmt.jpg)
 
 Druhým důvodem bylo to, že se sami steampunkeři mají tendenci jaksi samovolně organizovat do „posádek“ vzducholodí. Posunout tuto tendenci někam dál bylo také lákavé.
 
@@ -53,7 +53,7 @@ Pro steampunk jsou charakteristické právě vzducholodě posledního typu – z
 
 Obliba zeppelinů je možná způsobena tím, že si je představujeme prostě jako opravdu velké vzducholodě, v nichž mohou být vyhlídky, jídelny, kavárny a salóny s klavírem, zatímco neztužené a poloztužené vzducholodě vnímáme spíše jako cosi malého s gondolou tak těsnou, že do sebe členové posádky navzájem narážejí lokty.
 
-![](hindenburg-397013-1280-opt.jpg)
+![obrazek](hindenburg-397013-1280-opt.jpg)
 
 Není to úplně pravda, i když faktem je, že se největší neztužené a poloztužené vzducholodě svými rozměry vyrovnaly nejmenším vzducholodím Zeppelinovy výroby – mívaly kolem sto dvaceti metrů délky. To je ovšem jen poloviční délka největších postavených ztužených vzducholodí.
 
@@ -91,7 +91,7 @@ Jak napovídá název, mají ztužené vzducholodě pevnou konstrukci. Skládá 
 
 Takový plynový oddíl tvoří vak ze zlatotepecké blány, která se získávala z hovězích střev. Běžně ho ovšem neuvidíte ani na fotografiích, protože ho zakrývá vnější potah z lakované bavlněné tkaniny. Tyto technické detaily mají ztužené vzducholodě většinou společné. I když by se i v tom, pravda, pár výjimek našlo.
 
-![](brockhaus-efron-aerona-opt.jpg)
+![obrazek](brockhaus-efron-aerona-opt.jpg)
 
 Mají ovšem i dostatek odlišností, od přelomu 19. a 20. století do 30. let 20. století prodělaly totiž takovou proměnu, že by si zasloužily rozdělení do mnoha různých samostatných skupin. Protože ale z tohoto článku nechci dělat atlas, rozdělím pravé zeppeliny jen do tří skupin a o dalších se zmíním jen v jejich odlišnostech.
 
@@ -165,7 +165,7 @@ Jde-li o dálkovou vzducholoď, je před ním zabudován hlavní kompas s dvojit
 
 Kromě velkého napevno namontovaného kompasu před směrovým kormidelním kolem by­ste při pečlivém hledání našli na můstku ještě několik malých přenosných kompasů s výklopnými mířidly. Používaly se k určení polohy podle náměru, tedy zaměřením orientačních bodů na zemi.
 
-![](1918-view-from-french-opt.jpg)
+![obrazek](1918-view-from-french-opt.jpg)
 
 Napravo od směrového kormidelního kola býval u větších dálkových vzducholodí „drift indikátor“, což je přístroj, kterým se měřilo snášení větrem. V principu je to kolmo postavený dalekohled s mřížkou, zabudovaný objektivem do podlahy, kterým se dal měřit pohyb vůči zemi mimo kompasový kurz.
 
@@ -207,7 +207,7 @@ Vyplout se vzducholodí je překvapivě jednoduché, stačí uvolnit kotevní la
 
 Nejstarší (a nejmenší) vzducholodě mohly přistát na zemi s pomocí kotvy, což je asi nejnebezpečnější a nejdrastičtější způsob přistání. Pokud si ovšem vymyslíte průzkumnou vzducholoď, budete muset možná počítat i s takovým přistáním. Pomocí kotvy se vzducholoď vlastně jen zachytí, následně se musí do země zatlouci dostatečně daleko kolíky a vzducholoď se přes ně pomocí kotevních lan stáhne k zemi.
 
-![](uss-shenandoah-bau-fmt.jpg)
+![obrazek](uss-shenandoah-bau-fmt.jpg)
 
 Žádná velká vzducholoď v historii takto nikdy nepřistávala.
 

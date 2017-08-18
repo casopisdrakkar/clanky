@@ -260,4 +260,4 @@ Vychází to ze známé Beaufortovy stupnice, ta má sice dva další stupně, k
 
 V závorkách jsou uvedena čísla pro hod k20, pro hru zaměřenou o něco více simulačně.
 
-![](file5191308359950-opt.jpg)
+![obrazek](file5191308359950-opt.jpg)

@@ -27,7 +27,7 @@ _Moucha_ je, podle mne, celkem nepodstatná – na rozdíl od původní povídky
 
 Takže si k rozboru vybírám jasně souvislou řadu – _Vetřelec, Věc _a _Terminátor_, která jednak vyniká slávou a jednak by tu mělo být patrno vše podstatné pro postižení toho, jak to s tím cyberpunkem vlastně je.
 
-![](total-recall-movie-pos-opt.jpg)
+![obrazek](total-recall-movie-pos-opt.jpg)
 
 # II.
 
@@ -39,7 +39,7 @@ Nejprve osobní poznámku k vědě a vesmíru. V sedmdesátých letech u nás po
 
 Do toho přišel _Vetřelec_. Viděl jsem ho jako patnáctiletý, na videu. A musím říci, že jako dítě, pečlivě chráněné podobných drasťáků, jsem byl na něco podobného naprosto nepřipraven. Veškeré umělecké efekty přebil jenom nekonečný hnus a děs. To, co popsal recenzent, jsem asi podvědomě skutečně tak cítil – film je zvrácený, kacířský a zvrhlý.
 
-![](alien-movie-poster-opt.jpg)
+![obrazek](alien-movie-poster-opt.jpg)
 
 Abych neopakoval to, co bylo v Živlu řečeno – že zářivé sterilní plochy „Ein kessel buntes“ nahradily šerosvitné, propletené chodby. Logické technické tvary se mění v organické. Všude je od té doby typická mlha, krev, sliz a podobně. Prostě byl vybrán nejzvrhlejší umělec, aby provedl co nejzvrhlejší vizi. Vše zakázané bylo dovoleno.
 
@@ -59,7 +59,7 @@ Ale tato prostota nápadu dává výsledek možná daleko horší a děsivějš�
 
 Téma, které _Vetřelec_ naznačil, je tu drasticky dotaženo. Je tu totiž napadeno tabu lidského těla – a toť základní téma cyberpunku. Člověk, který byl stvořen údajně k obrazu Božímu, který je čímsi posvátným, může být v umění sice tisíckrát zabit, může být dokonce i spálen a rozsekán, ale vždy je to člověk. Ovšem zrůdy odedávna působily dojmem něčeho velice zlého a zvrhlého – je to falešný nečlověk, padělek, blasfemie.
 
-![](the-terminator-1984-opt.jpg) A představa bližního, který se nečekaně rozpadne a rozteče, promění v bubáka, je obzvláště nepříjemná. Není to rozhodně nový nápad – ve sci-fi se to už objevilo několikrát – ale vidět to ve filmu je dost demoralizující. Troufám si říci, že _Věc_ je absolutně nejhnusnější, co jsem kdy viděl.
+![obrazek](the-terminator-1984-opt.jpg) A představa bližního, který se nečekaně rozpadne a rozteče, promění v bubáka, je obzvláště nepříjemná. Není to rozhodně nový nápad – ve sci-fi se to už objevilo několikrát – ale vidět to ve filmu je dost demoralizující. Troufám si říci, že _Věc_ je absolutně nejhnusnější, co jsem kdy viděl.
 
 Druhý krok, který je ve _Věci_ patrný, je stejně zlověstný. Je to krok k reálnosti kulis. Nechme stranou, že jde opět o mimozešťana. Ale už to není někde u hvězdy X, ale na Zemi, v reálné atmosféře, byť v Antarktidě. Lze odmítnout komplikovaného Vetřelce s jeho bizarními životními cykly, s jeho biotechnickou povahou a podivnými schopnostmi. Věc je ale jakási hmota, prostě hromada biologické polévky se schopností zabíjet a napodobovat. Při pomyšlení na pokroky v biologii takový materiál nevypadá úplně nesmyslně. Věc se blíží ke hranici fikce – ne, nestalo se to, ale pokud bychom na chvíli připustili, že...
 
@@ -81,7 +81,7 @@ Na Terminátorovi byla poměrně obdivována zápletka. No, ani to není nic moc
 
 Zřejmě ten dojem vyvolala neuvěřitelná studenost a beznadějnost příběhu, zatahování smyčky kolem krku naprosto dokonalým způsobem a bez jakéhokoli náznaku naděje. Mystiku černého sabatu a Aztéckých obřadů z _Vetřelce_ a _Věci_ vystřídala děsná praktičnost teroristů a plynových komor. Zabíjení je tu spousta, ale nejhorší je na něm motiv. Lidé jsou zde zabíjeni, protože překážejí (policisté), mají na sobě šaty (bezdomovci hned v úvodu), je to rychlejší a snadnější než jim zaplatit (prodavač) nebo se omylem připletli (přítelkyně hrdinky), jsou náhodou okolo (lidé v hospodě). Se zlem se tu vlastně vůbec nebojuje (jako v předchozích filmech), protože to vůbec nejde – a je to na rozdíl od _Vetřelce_ velmi přesvědčivé. Jenom se prchá. Všechny akce hrdinů jsou vlastně boj na zdrženou, jak začneme postupně chápat. První skutečný střet, kdy už není kam utíkat, skončí smrtí hrdiny.
 
-![](the-thing-poster-opt.jpg)
+![obrazek](the-thing-poster-opt.jpg)
 
 Nebyl jsem si jist, zda na mne v budoucnu zapůsobí _Terminátor_ stejně mocně jako poprvé. Mezitím jsem viděl tisíc zmíněných napodobenin, říkal jsem si, zda dojem nebude smazán.
 
@@ -111,7 +111,7 @@ I v tomto oboru je _Terminátor_ naprosto vrcholný, korunovaný velmi mimořád
 
 Takže hlavní zvláštnost Terminátora je, že je trojjediný – akční hrdina (byť záporný), psychopatický vrah (nebezpečí důvěrně známé a pochopitelné) a konečně nepochopitelný bubák, jako Vetřelec (příšerné nebezpečí mimo lidské chápání). Všechny tři složky – a všechny vzory – jsou důvěrně známé. Všechno už tu bylo. Ale nikdy to tu nebylo dohromady.
 
-![](936full-duel-poster-opt.jpg)
+![obrazek](936full-duel-poster-opt.jpg)
 
 A tím se ovšem vzory ještě nevyčerpávají.
 
@@ -131,7 +131,7 @@ Už jsem naznačil, že _Terminátora_ hodnotím ze všech těch šíleností ne
 
 Cyberpunk je ještě zběsilejší variantou postmoderny než _Batman_ a _Twin Peaks_. Chybí jim postmoderní hravost a ironie. Nehrají si – jsou strašně pochmurné. Jejich žánr je mnohem jasněji ohraničen a témata nelze opakovat do nekonečna. Ostatně, už asi mluvím o tom, co je jasné – devadesátá léta jsou za polovinou a nedala nám nic srovnatelného se zmíněnými vzory. Čím je dílo lepší a zajímavější, tím méně ho lze s klidem označit za cyberpunk. Klasický vzor _Vetřelce_ se svými šerosvity, kapající krví, slizem a s comicsovými svalovci je v krizi. Akční schémata a biologické ohavnosti se vypotřebovaly. Stačí vyjmenovat filmy _Total Recall, RoboCop _a také i _Vodní svět_. Nevěřím, že mezi těmi neviděnými se skrývá hledaný skvost. Armáda slavných cyberpunkových režisérů osmdesátých let – Cameron, Cronenberg, Carpenter, abych jmenoval jenom ty od C – zřejmě marně a zoufale hledá novou bombu tohoto typu.
 
-![](robocop-xlg-opt.jpg)
+![obrazek](robocop-xlg-opt.jpg)
 
 Karel Čapek kdysi tvrdil, že ďábelské je vždy nutně komplikovanější, ale méně pevné a trvalé než přirozené. Zdá se, že to funguje například ohledně sexuální revoluce, která k nám vtrhla během revoluce sametové. Napřed byli všichni fascinováni a rozzlobeni záplavou časopisů po ulicích. Dnes to nikoho nezajímá. Pocity veřejnosti jsou nyní naprostý nezájem a nuda. Když si to někdo chce koupit, tak si to prostě koupí. No a co?
 
@@ -153,11 +153,11 @@ _Je také vhodné doplnit to, co se stalo po této úvaze. A bylo toho hodně. _
 
 _Stran předpovědi konce cyberpunku jsem měl pravdu jen zčásti. Přišel totiž například Matrix, plný nových a pozoruhodných témat. Po výtvarné stránce se zbavil většiny těch šokujících oslizlých efektů a stal se zvláštní fetišistickou show, trochu ve stopách Burtonových Batmanů. A v době, kdy by už plno lidí cyberpunk odepsalo coby starožitnost, ve žhavé současnosti 2015, dorazil na scénu remake filmu Mad Max, kde to máme celé opět v plné slávě a v nejryzejším možném stylu. Pokud se ptáte, co je tam cyberpunkového, pak hledejte ten setrvale mašinózní kamioňácko motorkový styl, na kterém to celé běží. Pásy cudnosti a umělé železné ruce. A způsob vyprávění, ten zejména; minimum postav, málo rozmluv a všechno se někam řítí. Okázalá ryčná primitivnost, která skrývá překvapivé hlubiny. A to zdaleka není všechno; o podobný návrat se pokouší třeba Blomkamp a jeho filmy, District 9, Elysium. Cyberpunku možná ubylo, ale rozhodně není mrtvý.
 
-![](matrix-ver1-opt.jpg) _
+![obrazek](matrix-ver1-opt.jpg) _
 
 _Už výše napsané z roku 1996, kde hlavně kritizuji a nadávám, prozrazují mezi řádky mocné okouzlení a postupné podléhání. Tak přesně to bylo; cyberpunk mne štval a urážel, ale zároveň fascinoval, a hlavně, naprosto nešel z hlavy. Rozžvaněné konverzační a „závažné“ sci-fi klasického střihu – Vesmírná odysea – vedle něj vypadalo zoufale nedomrle a neškodně. Přistihl jsem se, že jsem ochoten prakticky nekonečněkrát fascinovaně zírat, jak Sarah Connorová drtí Terminátora v lisu a odjíždí do nejasné budoucí bouřky, kdežto u nesmírně ctihodné Kubrickovy a Spielbergovy AI jsem znuděně odpadal. S _[Vetřelci](http://drakkar.sk/19/vetrelci-jeste-po-mnoha-letech.html)_ jsem se postupně skamarádil. A Terminátor se stal postupně celoživotním uhranutím na způsob Pána prstenů; napsal jsem o něm kilometry textu, dva články vydal a nesčetněkrát ho _[zmínil](http://drakkar.sk/40/pribeh-o-strasidle-ii-lide.html)_ coby příklad. Vedle Lovecrafta má na svědomí druhou moji čistou fanfiction v životě. V tom cyberpunkerském období jsem to dokonce zkusil i vážněji; a vznikla Doktrína jediného dne.
 
-![](district-9-movie-poste-opt.jpg)_
+![obrazek](district-9-movie-poste-opt.jpg)_
 
 _A pak jsem nakonec pochopil, že zejména ta hypnotizující sevřená forma cyberpunkového vyprávění mi má co říci; že je využitelná v mnoha jiných světech. Není důležité o tom mluvit; důležité je to udělat. Není třeba verneovská přednáška, když to prostě vidíte celé v akci. Hrdina, který jedná, bojuje se situací, očesaný na kost; nic kromě situace a hrdiny už na scéně pomalu nezbývá. Takto se dá psát i fantasy. Takto se dá psát i historická fikce. Ano; takto se dá dokonce dojít od těžkých meyrinkovských mystických šerosvitů rovnou do 21. století, a to beze ztráty obsahu._
 

@@ -13,13 +13,13 @@ Pověry a čáry měly své místo v lidském životě doslova odnepaměti a v e
 
 V již zmiňovaném článku Středověká nekromantie zmiňuji klasifikaci na přírodní a démonickou magii, kterou pro usnadnění zavedli dnešní badatelé. Zatímco v démonické magii jde o vědomé vzývání nadpřirozených bytostí (andělů, ďáblů, démonů, pohanských božstev), přírodní magie je širším pojmem označujícím tak trochu „vše ostatní“. Tedy povětšinou snaha dosáhnout konkrétních cílů nadpřirozeným způsobem pomocí obřadů, ovšem bez personifikace nadpřirozených sil. Někdy jsou vzývány živly, zaklínány nemoci a podobně, ale nedochází ke zjevování démonických bytostí. Není pochyb o tom, že osoby, spojované později s čarodějnictvím, provozovaly (pokud vůbec) především to, co označujeme za přírodní magii. Mezi tyto osoby patřily nejen obligátní „babky kořenářky“ a „porodní báby“, ale i běžní sedláci, lidé žijící na okraji, jako lesní pracovníci, kováři a mlynáři, a dále lidé neusedlí, tuláci, potulní klerici, cikáni a podobně.
 
-![](witch-725447-1280-opt.jpg)
+![obrazek](witch-725447-1280-opt.jpg)
 
 V historii evropského středověku a novověku můžeme pozorovat jev, který by se dal nazvat démonizací magie. Původní lidové obřady a rozličné magické úkony, jasně klasifikovatelné jako přírodní magie, jsou postupně zvnějšku formovány do podoby ďábelské. Rozhodující je přitom tlak představitelů církve (především kazatelů, exorcistů a inkvizitorů), jejíž doktrína oficiálně neuznává jiné nadpřirozené síly než božské a ďábelské. A protože zázraky jsou vyhrazeny Bohu, který je koná skrze vzácné jedince, poustevníky, mystiky a světce, je jakákoli magická činnost prostých lidí krajně podezřelá. V novověku, což je období, kterým se v článku hodlám zabývat, je čarodějnictví postupně vydefinováno jako užívání magie za pomoci ďábla. Naproti tomu pověrečné chování je považováno za mnohem lehčí prohřešek, který je v lidové kultuře tolerován (ne-li vyžadován) a církevními i světskými autoritami trestán jen mírně, pokud vůbec.
 
 Hranice mezi čarodějnictvím a pouhou pověrčivostí ovšem byla velmi tenká. Například v konkrétních soudních procesech velmi často záleželo pouze na tom, k čemu všemu se obviněný pod tlakem vyslýchajících přiznal. Ze soudních zápisů je patrné, že mnohdy skončili špatně ti, kteří se snažili z obvinění vymluvit nebo vyslýchající přechytračit. Naopak účinná byla, jak se zdá, metoda zapírání a předstírání naprosté nevědomosti.
 
-![](man-8591-1280-opt.jpg)
+![obrazek](man-8591-1280-opt.jpg)
 
 Protože v šestnáctém a sedmnáctém století byla stále většina obyvatelstva Evropy negramotná, byly magické spisky a knihy jen okrajovým prvkem lidové magie. Klíčovou roli hrálo ústní předávání postupů a návodů. Používané pomůcky byly často podobné pomůckám k démonické magii, tedy části rostlin, zvířecích těl, neobvyklé nerosty. Také se ale ke kouzlení používaly předměty denní potřeby:
 
@@ -45,7 +45,7 @@ V roce 1428 byla souzena kvůli čarodějnictví jistá Matteuccie Francisci z T
 
 Matteucie Francisci je typickým příkladem čarodějky, která kouzlí v zájmu platících klientů, bez ohledu na nějakou vyšší morálku. Takové osoby si pochopitelně nadělaly mnoho nepřátel, třeba už jen tím, že pomohly jedné z nesvářených stran. Riziko obvinění, udání úřadům, či dokonce lynčování, zde bylo značné.
 
-![](light-384950-1280-opt.jpg)
+![obrazek](light-384950-1280-opt.jpg)
 
 V patnáctém století ještě čarodějnictví nebylo všeobecně spojováno s ďáblem (_Kladivo na čarodějnice_ bylo vydáno až roku 1486). Zásahy proti čarodějům tedy nebývaly příliš důrazné, pokud nešlo o vážná obvinění (vražda). Inkvizice sice už nebyla přímo pod kontrolou papeže a církev se zmítala v problémech (schizma, dvojpapežství), nicméně stále byl přítomen jakýsi oficiální názor církve , že magie a čarodějnictví nemají reálnou moc a jde jen o iluze poblouzněných jedinců (Canon Episcopi z 10. století). Proto byly soudy a pověření invkizitoři ve věci čarodějnictví poměrně zdrženliví, někdy až vyloženě laxní.
 
@@ -61,7 +61,7 @@ Ze soudních záznamů je patrné, že vyšetřovatelé si s benandanty nevědě
 
 Postupem času se benandanti vyprofilovali jako samozvaní léčitelé, udavači čarodějnic a vysloužili si nedobrou pověst. Byli vnímáni jako potížisté, kteří svým vychloubáním a udavačstvím vnášejí chaos mezi poklidné vesničany. Označené čarodějnice (ženy převažovaly) si stěžovaly u místních duchovních, kteří pak posílali rozhořčené dopisy biskupům a inkvizici. Následné procesy končily spíš trestáním a výstrahami pro benandanty než pro čarodějnice (protože ty obvykle všechna obvinění popíraly). Benandanti prosluli arogancí a cynismem, s nímž požadovali platby za radu proti nemocem a uřknutím. Neměl-li někdo ihned na zaplacení, benandanti ho zpravidla nechali jeho osudu. Koncem 17. století již bylo slovo benandant vnímáno stejně negativně jako „čarodějník“, přestože původně bylo jeho protikladem.
 
-![](witch-294455-1280-opt.jpg)
+![obrazek](witch-294455-1280-opt.jpg)
 
 Jsme tu svědky již zmíněné démonizace, kdy se pod tlakem církevních autorit původně pohanské obřady (boje dvou skupin lidí o budoucí úrodu) transformují v ďábelské sabaty. Čarodějnický sabat byl fenoménem, který se pronásledovatelé čarodějnictví snažili přesně popsat a definovat. Jeho reálný základ je tedy zastřen myšlenkovými konstrukty inkvizitorů, do nichž se snažili vměstnat všechny typy podezřelých, a to včetně benandantů. Badatelé se dodnes neshodnou na tom, zda popisovaná setkání se skutečně v nějaké formě odehrávala, či zda šlo jen o výplod myslí omámených drogami, popřípadě duševně nemocných (odhlédněme teď od jedinců, kteří si svou účast na sabatech vymýšleli, aby přilákali pověrčivou klientelu). A co je ještě zajímavější, tato diskuze existovala již v 16. století. Rozvoj medicíny a humanismu spolu s děsivými zkušenostmi honů na čarodějnice, daly vzniknout pochybnostem o reálnosti sabatů (Johann Weyer byl první, kdo označoval ženy obviněné z čarodějnictví za duševně nemocné). Tyto názory se šířily mezi katolíky (Cornelius Loss) i protestanty (Reginald Scot). Zároveň byly napadány postupy inkvizice a bylo poukazováno na to, že nevinní, pokud se dostanou do jejích spárů, nemají o moc větší šanci na osvobození než zločinci (Friedrich Spee).
 
@@ -69,7 +69,7 @@ K takzvaným benandantům se okrajově váže další zajímavý fenomén lidov�
 
 Některé pověsti uvádějí, že průvod mrtvých měl moc vzít s sebou duše živých lidí, zatímco spali, a ukázat jim peklo, očistec a ráj. Tam se tito lidé obvykle setkali se svými blízkými zemřelými, dozvěděli se, jak se jim daří (nebo spíš jak moc trpí), a byli nabádáni k modlitbám a nápravě života. Ve výpovědích některých čarodějníků a benandantů se vyskytuje tvrzení, že byli k cestám na noční shromáždění vyzváni houfem zemřelých vedených nejčastěji ženskou postavou (Diana, Perchta, Holda). Zde se setkali s dušemi mrtvých příbuzných a sousedů, kteří je prosili o nápravu života. Oklikou se tak prastarý mýtus spojil s konceptem sabatu a tím zapadl do schémat vytvořených církevními autoritami.
 
-![](cooking-opt.jpg)
+![obrazek](cooking-opt.jpg)
 
 Zajímavou pozdější transformací je příběh takzvaných bokkenrijders, což byly skupiny lupičů, které řádily na území dnešního Nizozemí, části Belgie a Německa. Tito bandité využívali legendu o ďábelských přízračných lovcích, aby vzbudili větší hrůzu u svých obětí, venkovských obyvatel. Výsledkem bylo, že byli soudy obviňováni kromě loupení také ze spojenectví s ďáblem a bylo s nimi zacházeno mnohem přísněji než s běžnými lupiči. Čarodějnické procesy připomíná i skutečnost, že bokkenrijders byli mučením nuceni udávat další společníky, což vedlo k mnoha falešným obviněním.
 
