@@ -1,6 +1,6 @@
 ---
 Title: "O Drakkově pokladu"
-Authors: Michaela „Miška“ Merglová
+Authors: „Miška“
 Tags: povídka
 Color: gray
 ---

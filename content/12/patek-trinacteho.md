@@ -1,6 +1,6 @@
 ---
 Title: "Pátek třináctého"
-Authors: Michaela „Miška“ Merglová
+Authors: „Miška“
 Tags: povídka
 Color: gray
 ---

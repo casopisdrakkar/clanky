@@ -1,6 +1,6 @@
 ---
 Title: "Zpěv druhý: Balderova smrt (z cyklu Zpěvy mrtvých)"
-Authors: Michaela „Miška“ Merglová
+Authors: „Miška“
 Tags: povídka
 Color: gray
 ---

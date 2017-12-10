@@ -1,6 +1,6 @@
 ---
 Title: "Tři kameny"
-Authors: Michaela „Miška“ Merglová
+Authors: „Miška“
 Tags: povídka
 Color: gray
 ---

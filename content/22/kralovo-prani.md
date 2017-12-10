@@ -1,6 +1,6 @@
 ---
 Title: "Královo přání"
-Authors: Michaela „Miška“ Merglová
+Authors: „Miška“
 Tags: povídka
 Color: gray
 ---

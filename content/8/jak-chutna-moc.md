@@ -1,6 +1,6 @@
 ---
 Title: "Jak chutná moc"
-Authors: Michaela „Miška“ Merglová
+Authors: „Miška“
 Tags: zápis ze hry
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?t=5898

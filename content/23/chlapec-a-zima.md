@@ -1,6 +1,6 @@
 ---
 Title: "Chlapec a Zima"
-Authors: Michaela „Miška“ Merglová
+Authors: „Miška“
 Tags: povídka
 Color: gray
 ---
