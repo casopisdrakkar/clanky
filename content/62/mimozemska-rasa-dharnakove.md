@@ -1,6 +1,6 @@
 ---
 Title: "Mimozemská rasa: Dharnakové"
-Authors: Ecthelion2
+Authors: Ecthelion²
 Tags: doplňky a materiály, sci-fi, mimozemšťané
 Color: green
 Fulltext: yes

@@ -12,7 +12,7 @@ Právě čtete 40. číslo Drakkaru. Je to číslo pěkné, vysoké a kulaté �
 
 Věříme však, že jako vydání bude toto číslo výjimečné pro vás. A pokud ne výjimečné, pak alespoň skvělé! :-) Protože nabízí zase plno zajímavého čtení. Považte sami:
 
-Už čtvrtý díl seriálu o tvorbě světa tentokrát přinese cenné rady ohledně toho, jak přijímat a zpracovávat kritiku. Ecthelion2 vám povypráví, co se dělo okolo Příběhů Impéria na Gameconu, největším českém setkání příznivců nepočítačových her a Vallun přináší článek věnovaný lodím a vůbec dopravě po vodě.
+Už čtvrtý díl seriálu o tvorbě světa tentokrát přinese cenné rady ohledně toho, jak přijímat a zpracovávat kritiku. Ecthelion² vám povypráví, co se dělo okolo Příběhů Impéria na Gameconu, největším českém setkání příznivců nepočítačových her a Vallun přináší článek věnovaný lodím a vůbec dopravě po vodě.
 
 Literární sekci začne tentokrát povídka napsaná k příležitosti vydávání karetní hry Příběhy Impéria: Mocnosti. A hned v závěsu následuje pokračování Argonantova vyprávění o strašidlech, tentokrát v lidské podobě, a Tereza Tomášková nám řekne o tajemném Pérákovi, prvním čistě českém superhrdinovi – nebo to bylo jinak?
 

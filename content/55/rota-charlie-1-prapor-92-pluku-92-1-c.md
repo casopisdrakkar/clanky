@@ -1,6 +1,6 @@
 ---
 Title: "Rota Charlie, 1. prapor 92. pluku (92/1/C)"
-Authors: Ecthelion2
+Authors: Ecthelion²
 Tags: doplňky a materiály, rota, space opera
 Color: green
 ---

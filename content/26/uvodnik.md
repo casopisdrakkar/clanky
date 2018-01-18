@@ -22,6 +22,6 @@ Johna Wicka uvidíme ešte raz: v sérii článkov Play Dirty prinášame prekla
 
 Svetu Albion sa venuje článok od Sparkle. Svet staršej počítačovej RPG, ktorý je tak trochu v zabudnutí, ale prináša mnoho nápadov pre hru v prírodnom, nízkotechnologickom svete, ktorý možno preskúmavať a objavovať, že nie vždy treba dať na prvý dojem.
 
-Skladačku článkov uzatvára Ecthelion2 a článok venovaný orientálnej mágii a vyvolávaní rozličných typov džinov, ktorý možno použiť nielen v Príbehoch Impéria.
+Skladačku článkov uzatvára Ecthelion² a článok venovaný orientálnej mágii a vyvolávaní rozličných typov džinov, ktorý možno použiť nielen v Príbehoch Impéria.
 
 Príjemné čítanie želá za redakciu Alef0.

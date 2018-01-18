@@ -1,6 +1,6 @@
 ---
 Title: "Ohlédnutí za vývojem Příběhů Impéria – Krabice"
-Authors: Ecthelion2
+Authors: Ecthelion²
 Tags: příběhy impéria, vývoj, gamedesign, setting
 Color: red
 ---
