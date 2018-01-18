@@ -1,6 +1,6 @@
 ---
 Title: "Hex: Blaaklogh"
-Authors: ilgir
+Authors: Petr „ilgir“ Chval
 Tags: hex
 Color: green
 ---

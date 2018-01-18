@@ -1,6 +1,6 @@
 ---
 Title: "Hexy: Okolí města Ravnburghu"
-Authors: MarkyParky, Hike, Sarsaparillos, komi, ilgir, Vallun, PetrH, Skenderax, Zob, Narnas
+Authors: MarkyParky, Hike, Sarsaparillos, komi, Petr „ilgir“ Chval, Vallun, PetrH, Skenderax, Zob, Narnas
 Tags: hexy, kolektivní článek, doplňky, materiály
 Color: green
 ---
