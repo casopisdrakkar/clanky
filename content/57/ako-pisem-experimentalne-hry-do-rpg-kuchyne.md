@@ -1,6 +1,6 @@
 ---
 Title: "Ako píšem experimentálne hry do RPG Kuchyne"
-Authors: Ján „Crowen“ Rosa
+Authors: Ján „crowen“ Rosa
 Tags: gamedesign, RPG Kuchyně
 Color: red
 ---
