@@ -1,6 +1,6 @@
 ---
 Title: Bezejmenný hrdina
-Authors: Redakce
+Authors: redakce
 Tags: komiks, Bezejmenný hrdina
 Color: blue
 ---

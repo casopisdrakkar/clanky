@@ -1,6 +1,6 @@
 ---
 Title: "Pravidla detektivních příběhů"
-Authors: Redakce
+Authors: redakce
 Tags: literatura, detektivka, překlad
 Fulltext: no
 Color: blue

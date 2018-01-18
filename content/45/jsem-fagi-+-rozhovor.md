@@ -1,6 +1,6 @@
 ---
 Title: Jsem Fagi! + Rozhovor
-Authors: Redakce
+Authors: redakce
 Tags: comics, rozhovor
 Color: blue
 ---

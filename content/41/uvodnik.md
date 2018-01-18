@@ -1,6 +1,6 @@
 ---
 Title: "Úvodní slovo"
-Authors: Redakce
+Authors: redakce
 Tags: úvodník
 Fulltext: yes
 Summary: Právě čtete 41. číslo časopisu Drakkar a jistě si už říkáte, co že to zajímavého v něm najdete.

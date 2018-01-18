@@ -1,6 +1,6 @@
 ---
 Title: "Drakkar #56 vyšel jako dvoučíslo s Drakkarem #57"
-Authors: Redakce
+Authors: redakce
 Tags: úvodník
 Color: gray
 ---

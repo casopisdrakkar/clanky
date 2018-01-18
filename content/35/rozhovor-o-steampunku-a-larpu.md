@@ -1,6 +1,6 @@
 ---
 Title: "Rozhovor: O steampunku a larpu"
-Authors: Redakce
+Authors: redakce
 Tags: rozhovor, steampunk, larp
 Color: blue
 ---

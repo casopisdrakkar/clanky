@@ -1,6 +1,6 @@
 ---
 Title: Úvodní haiku
-Authors: Redakce
+Authors: redakce
 Tags: haiku
 Color: gray
 Fulltext: yes
