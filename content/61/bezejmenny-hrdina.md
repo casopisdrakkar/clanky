@@ -1,6 +1,6 @@
 ---
 Title: "Bezejmenný hrdina"
-Authors: Boubaque
+Authors: boubaque
 Tags: bezejmenný hrdina, komiks
 Color: gray
 Summary: článek

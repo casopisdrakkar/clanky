@@ -1,6 +1,6 @@
 ---
 Title: "Článek"
-Authors: Boubaque
+Authors: boubaque
 Tags: bezejmenný hrdina, komiks
 Color: green
 ---
