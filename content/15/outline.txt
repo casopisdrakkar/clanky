@@ -1,7 +1,7 @@
 ---
 Tvorba hry
 
-Ecthelion2
+EcthelionÂ²
 
 green
 
@@ -36,7 +36,7 @@ vlastního produktu.
 ---
 Stories of the Empire
 
-Ecthelion2
+EcthelionÂ²
 
 green
 
@@ -116,7 +116,7 @@ a vedenia vydavate¾stva Altar.
 ---
 Pøíbìh Impéria, který zaznìl na Gameconu
 
-Ecthelion2
+EcthelionÂ²
 
 gray
 

@@ -1,6 +1,6 @@
 ---
 Title: "Cesty a rychlost cestování ve středověku"
-Authors: „Ecthelion2“
+Authors: „Ecthelion²“
 Tags: historie a realita, cestování, středověk
 Color: green
 ---

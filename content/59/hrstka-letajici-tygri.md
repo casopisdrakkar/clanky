@@ -1,6 +1,6 @@
 ---
 Title: "Hrstka: Létající tygři"
-Authors: „Ecthelion2“
+Authors: „Ecthelion²“
 Tags: doplňky a materiály, Hrstka
 Color: blue
 ---
