@@ -1,6 +1,6 @@
 ---
 Title: "Kolektivní článek: Hexy"
-Authors: Kolektiv
+Authors: kolektiv autorů
 Tags: doplňky a materiály, hexy
 Color: green
 ---

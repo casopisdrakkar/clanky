@@ -1,6 +1,6 @@
 ---
 Title: "Projekt: Město Ravnburgh"
-Authors: kolektív autorů
+Authors: kolektiv autorů
 Tags: článek
 Color: green
 ---

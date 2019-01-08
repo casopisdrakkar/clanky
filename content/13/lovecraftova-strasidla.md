@@ -1,7 +1,7 @@
 ---
 Title: "Lovecraftova strašidla"
 Authors: Argonantus
-Tags: H. P. Lovecraft, horor, inspirace, literární techniky, mýtus Cthulhu
+Tags: H. P. Lovecraft, horor, inspirace, literární techniky, mýtus Cthulhu, cthulhu
 Color: gray
 Discussion: http://rpgforum.cz/forum/viewtopic.php?p=225635#p225635
 Fulltext: yes

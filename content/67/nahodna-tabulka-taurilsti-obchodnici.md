@@ -1,6 +1,6 @@
 ---
 Title: "Náhodná tabulka: Taurilští obchodníci"
-Authors: kolektív autorů
+Authors: kolektiv autorů
 Tags: náhodná tabulka, doplňky, herní materiály
 Color: green
 ---
